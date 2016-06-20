@@ -1,0 +1,210 @@
+label,v,0.125,0.0,0.875
+labialise,v,0.0,0.0,1.0
+labu,v,0.125,0.0,0.875
+lada,v,0.0,0.0,1.0
+lagak,v,0.0,0.0,1.0
+lagi,v,0.0,0.0,1.0
+lagu,v,0.125,0.0,0.875
+lagu pengiring lagu lain,v,0.125,0.0625,0.9375
+lahan kecelakaan,v,0.0,0.0,1.0
+lahir,v,0.0,0.0,1.0
+laicise,v,0.0,0.0,1.0
+laicize,v,0.0,0.0,1.0
+laju,v,0.208333333333,0.0833333333333,0.875
+lajur,v,0.00961538461538,0.0192307692308,0.990384615385
+lak,v,0.0,0.0,1.0
+laki-laki,v,0.0,0.0,1.0
+laktat,v,0.0,0.0,1.0
+lakukan dengan,v,0.0,0.0,1.0
+lakukan itu,v,0.375,0.125,0.75
+lallygag,v,0.125,0.0,0.875
+lalu,v,0.0,0.0,1.0
+lalu lintas,v,0.0,0.0,1.0
+lam ke,v,0.0,0.0,1.0
+lambast,v,0.0,0.375,0.625
+lambat,v,0.0,0.0416666666667,0.958333333333
+lambung kapal,v,0.0,0.0,1.0
+lampu,v,0.0,0.0,1.0
+lampu sorot,v,0.0,0.0,1.0
+lamunan,v,0.0,0.125,0.875
+lanau,v,0.0,0.0,1.0
+lancip,v,0.0,0.0,1.0
+langit,v,0.0,0.0,1.0
+langit-langit,v,0.0,0.0,1.0
+langkah,v,0.0,0.0681818181818,0.931818181818
+langkah kedepan,v,0.0,0.0,1.0
+langkah panjang,v,0.0,0.0,1.0
+langsung,v,0.0113636363636,0.0,0.988636363636
+lanjut,v,0.0,0.0,1.0
+lanjutkan,v,0.0,0.0,1.0
+lantai,v,0.1875,0.0,0.8125
+lapangan ke,v,0.0,0.0,1.0
+lapis,v,0.175,0.0,0.825
+lapisan,v,0.0,0.0,1.0
+lapisan bawah,v,0.0,0.0,1.0
+lapisan emas,v,0.0,0.0,1.0
+laporan,v,0.0833333333333,0.0208333333333,0.9375
+larangan,v,0.0,0.0,1.0
+lari,v,0.0555555555556,0.0,0.944444444444
+lari cepat,v,0.0,0.0,1.0
+lari dgn cepat,v,0.0,0.0,1.0
+lari dgn kekasih,v,0.375,0.0,0.625
+lari ke bawah,v,0.015625,0.0,0.984375
+lari lari,v,0.015243902439,0.0365853658537,0.978658536585
+larn,v,0.0,0.0,1.0
+larut,v,0.0,0.0113636363636,0.988636363636
+las,v,0.0,0.0,1.0
+lasso,v,0.0,0.0,1.0
+latar belakang,v,0.625,0.125,0.5
+latar depan,v,0.0,0.0,1.0
+lateralized,v,0.0,0.0,1.0
+latinise,v,0.0,0.0,1.0
+laut,v,0.0,0.4375,0.5625
+layanan,v,0.0,0.0416666666667,0.958333333333
+layar,v,0.0714285714286,0.0535714285714,0.982142857143
+layar off,v,0.0,0.0,1.0
+lebih,v,0.0,0.0,1.0
+lebih baik,v,0.375,0.0,0.625
+lebih cemerlang dr,v,0.1875,0.0,0.8125
+lebih dulu,v,0.075,0.025,0.95
+lebih jauh,v,0.25,0.0,0.75
+lebih memilih,v,0.3125,0.0,0.6875
+lebih menggeneralisasikan,v,0.0,0.0,1.0
+lebih penting dr,v,0.0,0.0,1.0
+lebih rendah,v,0.0,0.1,0.9
+lebih ringan,v,0.0,0.0,1.0
+lebih tahan dr,v,0.25,0.0,0.75
+lebih tebal,v,0.0,0.0,1.0
+lebih-benar,v,0.0,0.0,1.0
+lebihan,v,0.0,0.0,1.0
+lecet,v,0.125,0.0,0.875
+ledakan,v,0.0108695652174,0.0489130434783,0.961956521739
+leg itu,v,0.0,0.0,1.0
+legitimatise,v,0.0,0.0,1.0
+leher,v,0.5,0.0,0.5
+lekuk,v,0.0208333333333,0.0833333333333,0.9375
+lelah,v,0.125,0.0,0.875
+lelang,v,0.0,0.0,1.0
+lelucon,v,0.166666666667,0.0,0.833333333333
+lem,v,0.0,0.0,1.0
+lemah,v,0.0,0.09375,0.90625
+lemah lembut,v,0.291666666667,0.0,0.708333333333
+lemak,v,0.0,0.0625,0.9375
+lemak keluar,v,0.0,0.0,1.0
+lemari,v,0.0,0.0,1.0
+lemas,v,0.0,0.25,0.75
+lembaga,v,0.0,0.0,1.0
+lembar,v,0.0,0.0,1.0
+lembut,v,0.0714285714286,0.0357142857143,0.964285714286
+lemparan,v,0.0,0.0,1.0
+lendir,v,0.0,0.0,1.0
+lengan,v,0.0,0.0,1.0
+lengan bawah,v,0.0,0.0,1.0
+lengkap,v,0.125,0.0,0.875
+lengkungan,v,0.0,0.0,1.0
+lengkungan atas,v,0.0,0.0,1.0
+lenguh,v,0.0,0.0625,0.9375
+lentur,v,0.0,0.0,1.0
+lenyap,v,0.0,0.15,0.85
+lepas,v,0.0,0.0,1.0
+lepas landas,v,0.0568181818182,0.0,0.943181818182
+lereng,v,0.0416666666667,0.03125,0.989583333333
+lesung pipit,v,0.0,0.0,1.0
+letnan,v,0.0,0.0,1.0
+letusan,v,0.0,0.0,1.0
+lewat,v,0.00961538461538,0.0384615384615,0.971153846154
+lexicalize,v,0.0,0.0,1.0
+lexicalizes,v,0.0,0.0,1.0
+liang,v,0.0,0.0,1.0
+librate,v,0.0,0.0,1.0
+liburan,v,0.125,0.0,0.875
+licin,v,0.0,0.0,1.0
+licin turun,v,0.0,0.0,1.0
+licin up,v,0.125,0.0,0.875
+lidah,v,0.0,0.0,1.0
+lidah ganda,v,0.0,0.0,1.0
+lidah-dasi,v,0.0,0.0,1.0
+lifehack,v,0.0,0.0,1.0
+liga,v,0.0,0.0,1.0
+liga bersama-sama,v,0.0,0.0,1.0
+ligate,v,0.0,0.0,1.0
+lignify,v,0.0,0.0,1.0
+lihat,v,0.0403225806452,0.00403225806452,0.963709677419
+lihat ganda,v,0.0,0.0,1.0
+lihat sekeliling,v,0.0,0.0,1.0
+lihatlah,v,0.0,0.125,0.875
+lilin,v,0.0,0.0,1.0
+limbah,v,0.0875,0.1,0.9875
+limn,v,0.0,0.0,1.0
+linan untuk menjilid buku,v,0.0,0.0,1.0
+linearise,v,0.0,0.0,1.0
+linearize,v,0.0,0.0,1.0
+ling,v,0.0,0.0,1.0
+linggis kecil,v,0.0,0.0,1.0
+lingkaran,v,0.0,0.0,1.0
+lingkaran bulat,v,0.0,0.0,1.0
+lingkaran cahaya,v,0.1875,0.0625,0.875
+lintah,v,0.0,0.0,1.0
+lintah ke,v,0.125,0.0,0.875
+lintas file,v,0.0,0.0,1.0
+lintas memeriksa,v,0.0,0.0,1.0
+lintas menyerbuki,v,0.0,0.0,1.0
+lintas-pupuk,v,0.1875,0.0,0.8125
+lionise,v,0.375,0.0,0.625
+lip-baca,v,0.0,0.0,1.0
+lip-sync,v,0.0,0.0,1.0
+lip-synch,v,0.0,0.0,1.0
+lipatan,v,0.0,0.025,0.975
+lipread,v,0.0,0.0,1.0
+lipstik,v,0.0,0.0,1.0
+liquidise,v,0.0,0.0,1.0
+liquidize,v,0.0,0.0,1.0
+lir,v,0.0,0.0,1.0
+liris,v,0.0,0.0,1.0
+literalize,v,0.0,0.0,1.0
+live,v,0.0,0.0,1.0
+lobi,v,0.0,0.0,1.0
+locomote,v,0.0,0.0,1.0
+log up,v,0.0,0.0,1.0
+log z,v,0.0,0.125,0.875
+logam,v,0.0,0.0,1.0
+logat,v,0.0,0.0,1.0
+login,v,0.0,0.0,1.0
+logroll,v,0.0,0.0,1.0
+lollop,v,0.0,0.0,1.0
+lollygag,v,0.125,0.0,0.875
+lolos,v,0.25,0.0,0.75
+lomba lari,v,0.0,0.0,1.0
+lompat ski,v,0.0,0.0,1.0
+lompatan,v,0.0,0.0,1.0
+loncat,v,0.0,0.0,1.0
+longgar,v,0.125,0.03125,0.90625
+longgar off,v,0.0,0.0,1.0
+longsor,v,0.0,0.0,1.0
+lonjakan keluar,v,0.0,0.0,1.0
+loteng,v,0.0,0.0,1.0
+lounge,v,0.0,0.25,0.75
+lowball,v,0.125,0.0,0.875
+luak,v,0.0,0.0625,0.9375
+lubang,v,0.0,0.0,1.0
+lubang keluar,v,0.0,0.0,1.0
+lubang merpati,v,0.0,0.125,0.875
+lubang up,v,0.0,0.0,1.0
+luge,v,0.0,0.0,1.0
+luka,v,0.0,0.5625,0.4375
+lulus,v,0.0240384615385,0.0288461538462,0.995192307692
+lulus dengan terbang warna,v,0.5,0.0,0.5
+lulus sekitar,v,0.0,0.0,1.0
+lumat,v,0.0416666666667,0.0833333333333,0.958333333333
+lumpur,v,0.0,0.166666666667,0.833333333333
+lumpur di sekitar,v,0.0,0.375,0.625
+lumpur menggeluti,v,0.0,0.125,0.875
+lumpur salju,v,0.0,0.1875,0.8125
+lundi,v,0.25,0.0,0.75
+luntur,v,0.125,0.208333333333,0.916666666667
+lupa,v,0.0833333333333,0.25,0.833333333333
+luruh,v,0.0,0.0,1.0
+luwes,v,0.0,0.0,1.0
+lyophilise,v,0.0,0.0,1.0
+lyophilize,v,0.0,0.0,1.0
+lysoge Anda,v,0.0,0.0,1.0

@@ -1,0 +1,2175 @@
+o'brien,n,0.0,0.0,1.0
+o'er,r,0.0,0.0,1.0
+o.d.,v,0.0,0.0,1.0
+o.e.d.,n,0.375,0.0,0.625
+oak apple,n,0.0,0.5,0.5
+oak beech,n,0.0,0.0,1.0
+oak blackjack,n,0.0,0.0,1.0
+oak brown,n,0.0,0.0,1.0
+oak chinkapin,n,0.0,0.0,1.0
+oak hitam,n,0.0,0.0,1.0
+oak holm,n,0.0,0.0625,0.9375
+oak inggris,n,0.0,0.0,1.0
+oak kuning,n,0.0,0.0,1.0
+oak kurang ajar,n,0.0,0.0,1.0
+oak maul,n,0.0,0.0,1.0
+oak myrtle,n,0.0,0.0,1.0
+oak nuttall,n,0.0,0.0,1.0
+oak overcup,n,0.0,0.0,1.0
+oak putih,n,0.0,0.0,1.0
+oak putih amerika,n,0.0,0.0,1.0
+oak shumard,n,0.0,0.0,1.0
+oakland,n,0.0,0.0,1.0
+oakley,n,0.0,0.0,1.0
+oakum,n,0.0,0.0,1.0
+oarfish,n,0.0,0.0,1.0
+oarswoman,n,0.0,0.0,1.0
+oas,n,0.0,0.0,1.0
+oast,n,0.0,0.0,1.0
+oast house,n,0.0,0.0,1.0
+oat,n,0.0,0.0,1.0
+oat animasi,n,0.0,0.0,1.0
+oat digulung,n,0.0,0.0,1.0
+oat genus,n,0.0,0.0,1.0
+oat liar,n,0.0,0.0,1.0
+oat merah liar,n,0.0,0.0,1.0
+oat palsu,n,0.0,0.0,1.0
+oat rumput liar,n,0.0,0.0,1.0
+oat rumput tinggi,n,0.0,0.0,1.0
+oat steril,n,0.0,0.0,1.0
+oatcake,n,0.0,0.0,1.0
+oatmeal kue,n,0.0,0.0,1.0
+obat,a,0.0,0.0,1.0
+obat,n,0.0583333333333,0.00833333333333,0.95
+obat,v,0.05,0.0,0.95
+obat amonia untik dicium,n,0.0,0.0,1.0
+obat anti ansietas,n,0.0,0.375,0.625
+obat anti radang,n,0.125,0.0,0.875
+obat anti-impotensi,n,0.125,0.25,0.875
+obat antiaritmia,n,0.0,0.0,1.0
+obat antibakteri,n,0.0,0.0,1.0
+obat antibiotik,n,0.125,0.0,0.875
+obat antidepresan nontricyclic,n,0.25,0.0,0.75
+obat antidepresan trisiklik,n,0.0,0.0,1.0
+obat antidiabetes,n,0.125,0.25,0.875
+obat antidiare,n,0.0,0.0,1.0
+obat antidiuretik,n,0.0,0.0,1.0
+obat antiemetik,n,0.0,0.125,0.875
+obat antihipertensi,n,0.0,0.0,1.0
+obat antikoagulan,n,0.0,0.0,1.0
+obat antikolinergik,n,0.0,0.0,1.0
+obat antimalaria,n,0.125,0.0,0.875
+obat antineoplastik,n,0.0,0.0,1.0
+obat antipsikotik,n,0.25,0.0,0.75
+obat antivirus,n,0.0,0.0,1.0
+obat anxiolytic,n,0.0,0.375,0.625
+obat bius,a,0.0535714285714,0.25,0.803571428571
+obat bius,n,0.0535714285714,0.0357142857143,0.982142857143
+obat bius,v,0.0416666666667,0.0,0.958333333333
+obat bius off,v,0.0,0.0,1.0
+obat bius up,v,0.0,0.0,1.0
+obat botani,n,0.0,0.125,0.875
+obat bust,n,0.0,0.0,1.0
+obat cacing,a,0.75,0.0,0.25
+obat cacing,n,0.75,0.0,0.25
+obat darurat,n,0.0,0.0,1.0
+obat desainer,n,0.0,0.0,1.0
+obat diuretik,n,0.0,0.0,1.0
+obat emesis,n,0.0,0.125,0.875
+obat etis,n,0.0,0.0,1.0
+obat flu,n,0.0,0.125,0.875
+obat generik,n,0.0,0.0,1.0
+obat gosok,n,0.0,0.125,0.875
+obat halusinogen,n,0.0,0.125,0.875
+obat imunosupresif,n,0.0,0.0,1.0
+obat ionik,n,0.0,0.0,1.0
+obat jatuh,n,0.0,0.0,1.0
+obat kanker,n,0.0,0.0,1.0
+obat keras,n,0.0,0.0,1.0
+obat kesuburan,n,0.0,0.0,1.0
+obat kumur,n,0.0,0.0,1.0
+obat luar untuk kompres atau bedah,n,0.0,0.0,1.0
+obat mengubah pikiran,n,0.0,0.0,1.0
+obat merah,n,0.0,0.0,1.0
+obat milik,n,0.0,0.0,1.0
+obat mujarab,n,0.0,0.0625,0.9375
+obat mujarab kehidupan,n,0.0,0.0,1.0
+obat neuroleptik,n,0.25,0.0,0.75
+obat nyamuk,n,0.0,0.0,1.0
+obat obat,n,0.25,0.0,0.75
+obat paten,n,0.0,0.5,0.5
+obat pembakar,n,0.0,0.0,1.0
+obat pembunuh rumput-rumputan,n,0.0,0.0,1.0
+obat penahan darah,a,0.125,0.375,0.75
+obat penahan darah,n,0.0,0.0,1.0
+obat pencahar,a,0.166666666667,0.166666666667,1.0
+obat pencahar,n,0.25,0.0,0.75
+obat pencegah,n,0.375,0.0,0.625
+obat pencerna,a,0.0,0.0,1.0
+obat pencerna,n,0.0,0.0,1.0
+obat pencuci perut,n,0.0,0.0,1.0
+obat penekan kekebalan,n,0.0,0.0,1.0
+obat penenang,a,0.25,0.5,0.75
+obat penenang,n,0.0,0.125,0.875
+obat penenang minor,n,0.0,0.375,0.625
+obat penenang utama,n,0.25,0.0,0.75
+obat penenang-hipnotik,n,0.0,0.0,1.0
+obat penghilang rasa sakit,n,0.125,0.125,1.0
+obat penurun lipid,n,0.125,0.0,0.875
+obat penurun panas,n,0.0,0.0,1.0
+obat perangsang,n,0.0,0.0,1.0
+obat perut,a,0.0,0.0,1.0
+obat psikoaktif,n,0.0,0.0,1.0
+obat psychedelic,n,0.0,0.125,0.875
+obat resep,n,0.0,0.0,1.0
+obat salep,n,0.0,0.0,1.0
+obat serangga,n,0.0,0.0,1.0
+obat statin,n,0.125,0.0,0.875
+obat tetap-kombinasi,n,0.0,0.0,1.0
+obat tidur,a,0.0,0.25,0.75
+obat tidur,n,0.0,0.0,1.0
+obat titis hidung,n,0.0,0.0,1.0
+obat untuk segala penyakit,n,0.0,0.125,0.875
+obat yg menyebabkan muntahan,n,0.0,0.125,0.875
+obeah,n,0.0,0.0,1.0
+obeche,n,0.0,0.0,1.0
+obechi,n,0.0,0.0,1.0
+obelion,n,0.0,0.0,1.0
+obelisk ganda,n,0.0,0.0,1.0
+obeng,n,0.0,0.0,1.0
+oberson,n,0.0,0.0,1.0
+obesitas eksogen,n,0.0,0.5,0.5
+obi,n,0.0,0.0,1.0
+obidoxime klorida,n,0.0,0.0,1.0
+obiism,n,0.0,0.0,1.0
+objectionableness,n,0.5,0.375,0.875
+objectionably,r,0.125,0.0,0.875
+objek alam,n,0.125,0.0,0.875
+objek bola,n,0.0,0.0,1.0
+objek dari kata kerja,n,0.0,0.0,1.0
+objek digambarkan,n,0.0,0.0,1.0
+objek ditahan,n,0.0,0.0,1.0
+objek luar angkasa,n,0.0,0.0,1.0
+objek pelajaran,n,0.0,0.0,1.0
+objek pikiran,n,0.0,0.0,1.0
+objek preposisi,n,0.0,0.0,1.0
+objek seks,n,0.0,0.0,1.0
+objek seni,n,0.125,0.0,0.875
+objek tidak langsung,n,0.0,0.0,1.0
+objek wisata,n,0.0,0.0,1.0
+oblanceolate,a,0.375,0.0,0.625
+obligasi daerah,n,0.0,0.0,1.0
+obligasi electrovalent,n,0.0,0.0,1.0
+obligasi hasil tinggi,n,0.0,0.0,1.0
+obligasi konversi,n,0.0,0.0,1.0
+obligasi korporasi,n,0.0,0.5,0.5
+obligasi kupon,n,0.0,0.0,1.0
+obligasi kupon nol,n,0.0,0.375,0.625
+obligasi noncallable,n,0.0,0.375,0.625
+obligasi obligasi,n,0.0,0.0,1.0
+obligasi pasca-obituari,n,0.0,0.0,1.0
+obligasi pemerintah,n,0.0,0.0,1.0
+obligasi pendapatan,n,0.0,0.0,1.0
+obligasi pendapatan utilitas,n,0.0,0.0,1.0
+obligasi premium,n,0.0,0.375,0.625
+obligasi tabungan,n,0.125,0.0,0.875
+obligasi tanpa jaminan,n,0.0,0.0,1.0
+obligasi zero coupon,n,0.0,0.375,0.625
+obligational,a,0.0,0.0,1.0
+obligato,n,0.0625,0.25,0.8125
+obligingness,n,0.0,0.25,0.75
+obliterable,a,0.125,0.125,1.0
+obliterans arteriosklerosis,n,0.0,0.0,1.0
+obliterator,n,0.0,0.0,1.0
+oblong woods,n,0.0,0.0,1.0
+oblongifolia indah,n,0.0,0.0,1.0
+oblongness,n,0.0,0.0,1.0
+obnoxiously,r,0.125,0.0,0.875
+obnoxiousness,n,0.5,0.375,0.875
+obnubilate,v,0.125,0.25,0.875
+obo,n,0.0,0.0,1.0
+oboe d'amore,n,0.0,0.0,1.0
+obolus,n,0.0,0.0,1.0
+obor,n,0.0,0.015625,0.984375
+obor,v,0.0,0.125,0.875
+obor asetilin,n,0.0,0.0,1.0
+obor las,n,0.0,0.0,1.0
+obovate,a,0.25,0.0,0.75
+obral,n,0.0,0.0,1.0
+obral barang lama,n,0.0,0.0,1.0
+obralan kain-kain putih,n,0.0,0.0,1.0
+obrolan,n,0.0,0.0535714285714,0.946428571429
+obrolan,v,0.0714285714286,0.0,0.928571428571
+obscureness,n,0.166666666667,0.458333333333,0.708333333333
+observably,r,0.125,0.0,0.875
+observantly,r,0.375,0.0,0.625
+observasi,n,0.05,0.0,0.95
+observasi radio,n,0.0,0.0,1.0
+observasional,a,0.0,0.0,1.0
+observatorium,n,0.0,0.0,1.0
+observingly,r,0.375,0.0,0.625
+obsesi,n,0.125,0.375,0.75
+obsesif,a,0.375,0.125,0.75
+obsesif,n,0.0,0.0,1.0
+obsesif,r,0.25,0.0,0.75
+obsesif-kompulsif,a,0.375,0.25,0.875
+obsesif-kompulsif,n,0.0,0.0,1.0
+obsessionally,r,0.25,0.0,0.75
+obsessiveness,n,0.375,0.125,0.75
+obsessivity,n,0.375,0.125,0.75
+obsidian,n,0.0,0.0,1.0
+obskurantisme,n,0.0,0.0,1.0
+obsolesce,v,0.0,0.0,1.0
+obstinance,n,0.0,0.3125,0.6875
+obstipate,v,0.0,0.75,0.25
+obstreperously,r,0.0,0.0,1.0
+obstreperousness,n,0.25,0.5,0.75
+obstructer,n,0.0,0.0625,0.9375
+obstructively,r,0.25,0.0,0.75
+obstructor,n,0.0,0.0625,0.9375
+obstruen,n,0.0,0.0,1.0
+obstruksi keadilan,n,0.0,0.0,1.0
+obstruksi usus,n,0.0,0.0,1.0
+obstruktif,a,0.0,0.0,1.0
+obtrusively,r,0.25,0.0,0.75
+obtund,v,0.125,0.0,0.875
+obturator vena,n,0.0,0.0,1.0
+obtusely,r,0.25,0.0,0.75
+obviation,n,0.0,0.0,1.0
+obyek,n,0.025,0.05,0.975
+obyek,v,0.0,0.0625,0.9375
+obyektif,a,0.15625,0.125,0.96875
+obyektif,n,0.0,0.0,1.0
+occidentalise,v,0.0,0.0,1.0
+occidentalize,v,0.0,0.0,1.0
+ocean bottom,n,0.0,0.0,1.0
+ocean cemberut,n,0.0,0.0,1.0
+ocean sunfish,n,0.0,0.0,1.0
+oceanaut,n,0.0,0.0,1.0
+oceangoing,a,0.375,0.0,0.625
+oceanites,n,0.0,0.0,1.0
+oceanites genus,n,0.0,0.0,1.0
+oceanites oceanicus,n,0.0,0.0,1.0
+ocehan,n,0.0625,0.1875,0.875
+ocehan,r,0.25,0.0,0.75
+ocehan,v,0.0,0.0,1.0
+ocehan gila,a,0.125,0.25,0.875
+ocelot,n,0.0,0.0,1.0
+ochotona,n,0.0,0.125,0.875
+ochotona genus,n,0.0,0.125,0.875
+ochotona tinggi,n,0.0,0.0,1.0
+ochotonidae,n,0.0,0.0,1.0
+ochotonidae keluarga,n,0.0,0.0,1.0
+ochronosis,n,0.0,0.375,0.625
+octad,n,0.0,0.0,1.0
+octameter,n,0.0,0.0,1.0
+octillion,n,0.0,0.0,1.0
+octoberfest,n,0.0,0.0,1.0
+octonary,n,0.0,0.0,1.0
+octoroon,n,0.0,0.0,1.0
+oculomotor,n,0.0,0.0,1.0
+oculomotor saraf,n,0.0,0.0,1.0
+ocyurus,n,0.0,0.0,1.0
+ocyurus chrysurus,n,0.0,0.0,1.0
+ocyurus genus,n,0.0,0.0,1.0
+oddment,n,0.1875,0.0,0.8125
+oddness,n,0.25,0.1875,0.9375
+ode paduan suara,n,0.0,0.0,1.0
+ode sapphic,n,0.0,0.0,1.0
+odessa,n,0.0,0.0,1.0
+odin,n,0.0,0.0,1.0
+odiously,r,0.0,0.375,0.625
+odist,n,0.0,0.0,1.0
+oditur,n,0.0,0.0,1.0
+odobenus,n,0.0,0.0,1.0
+odobenus genus,n,0.0,0.0,1.0
+odometer,n,0.0,0.0,1.0
+odonata,n,0.0,0.0,1.0
+odonate,n,0.0,0.0,1.0
+odontalgia,n,0.0,0.0,1.0
+odontaspididae,n,0.0,0.0,1.0
+odontaspididae keluarga,n,0.0,0.0,1.0
+odontaspis,n,0.0,0.0,1.0
+odontaspis genus,n,0.0,0.0,1.0
+odontaspis taurus,n,0.0,0.0,1.0
+odontiasis,n,0.0,0.25,0.75
+odontophorus genus,n,0.0,0.0,1.0
+odorize,v,0.0,0.375,0.625
+odourise,v,0.0,0.375,0.625
+odovacar,n,0.0,0.0,1.0
+odovakar,n,0.0,0.0,1.0
+odynophagia,n,0.125,0.75,0.375
+oecanthus,n,0.0,0.0,1.0
+oecanthus fultoni,n,0.0,0.0,1.0
+oecanthus genus,n,0.0,0.0,1.0
+oecumenism,n,0.0,0.0,1.0
+oedema,n,0.0,0.625,0.375
+oedipus,n,0.0,0.0,1.0
+oedipus kompleks,n,0.0,0.0,1.0
+oedipus rex,n,0.0,0.0,1.0
+oedogoniaceae,n,0.0,0.0,1.0
+oedogoniaceae keluarga,n,0.0,0.0,1.0
+oedogoniales,n,0.0,0.0,1.0
+oengus,n,0.375,0.0,0.625
+oenologist,n,0.0,0.0,1.0
+oenology,n,0.0,0.0,1.0
+oenomel,n,0.0,0.0,1.0
+oenothera,n,0.0,0.0,1.0
+oenothera biennis,n,0.0,0.0,1.0
+oenothera fruticosa,n,0.0,0.0,1.0
+oenothera macrocarpa,n,0.0,0.0,1.0
+oesophagoscope,n,0.0,0.0,1.0
+oestridae,n,0.0,0.25,0.75
+oestridae keluarga,n,0.0,0.25,0.75
+oestrus genus,n,0.0,0.125,0.875
+of-iodotyrosin,n,0.0,0.0,1.0
+off,v,0.0,0.125,0.875
+off hook,a,0.625,0.0,0.375
+off negara,v,0.0,0.0,1.0
+off the record,r,0.0,0.375,0.625
+off white,n,0.0,0.0,1.0
+off-axis reflektor,n,0.0,0.0,1.0
+off-base,a,0.0,0.0,1.0
+off-berpusat,a,0.0,0.0,1.0
+off-broadway,n,0.0,0.0,1.0
+off-center,a,0.0,0.0,1.0
+off-dan-on,a,0.0,0.0,1.0
+off-guard,a,0.5,0.5,1.0
+off-hari,n,0.0,0.125,0.875
+off-line,a,0.0,0.6875,0.3125
+off-line operasi,n,0.0,0.25,0.75
+off-line peralatan,n,0.0,0.0,1.0
+off-lisensi,n,0.0,0.0,1.0
+off-menempatkan,a,0.125,0.625,0.5
+off-roader,n,0.0,0.0,1.0
+off-site,a,0.0,0.0,1.0
+off-speed lapangan,n,0.0,0.0,1.0
+off-tangan,r,0.0,0.0,1.0
+off-the-clock,r,0.0,0.0,1.0
+off-the-pasak,a,0.0,0.0,1.0
+off-the-rak,a,0.0,0.0,1.0
+off-the-shoulder,a,0.125,0.125,1.0
+off-the-wall,a,0.0,0.25,0.75
+off-white,a,0.5,0.25,0.75
+off-white,n,0.0,0.0,1.0
+offbeat,a,0.0,0.5,0.5
+offbeat,n,0.0,0.0,1.0
+offenbach,n,0.0,0.0,1.0
+offenceless,a,0.0,0.625,0.375
+offenseless,a,0.0,0.625,0.375
+offensiveness,n,0.125,0.75,0.375
+offerer,n,0.125,0.0,0.875
+offeror,n,0.125,0.0,0.875
+office furniture,n,0.0,0.0,1.0
+officialize,v,0.0,0.0,1.0
+officiating,n,0.0,0.0,1.0
+officiation,n,0.0,0.0,1.0
+officinales asparagus,n,0.0,0.0,1.0
+officinalis,n,0.0,0.0,1.0
+officiously,r,0.25,0.0,0.75
+officiousness,n,0.0,0.125,0.875
+offload,v,0.0,0.0,1.0
+offsaddle,v,0.0,0.0,1.0
+offside,a,0.0,0.0,1.0
+offside,n,0.0,0.0,1.0
+offside,r,0.0,0.0,1.0
+offsides,a,0.0,0.0,1.0
+oftalmologi,n,0.0,0.0,1.0
+oftalmoskop,n,0.0,0.0,1.0
+oftalmoskopi,n,0.0,0.0,1.0
+oftenness,n,0.0,0.0,1.0
+ofttimes,r,0.0,0.0,1.0
+ogah-ogahan,r,0.25,0.25,1.0
+ogden,n,0.0,0.0,1.0
+ogden nash,n,0.125,0.0,0.875
+ogdoad,n,0.0,0.0,1.0
+ogee,n,0.0,0.0,1.0
+ogee arch,n,0.125,0.0,0.875
+ogler,n,0.0,0.0,1.0
+ohio,n,0.0,0.0,1.0
+ohio buckeye,n,0.0,0.0,1.0
+ohio semoran,n,0.0,0.0,1.0
+ohioan,n,0.0,0.0,1.0
+ohm,n,0.0,0.0,1.0
+ohmage,n,0.0,0.0,1.0
+ohmik,a,0.0,0.0,1.0
+ohmmeter,n,0.0,0.0,1.0
+oil,n,0.0,0.0,1.0
+oilbird,n,0.0,0.0,1.0
+oilpaper,n,0.0,0.0,1.0
+oilrig,n,0.0,0.0,1.0
+oilstone,n,0.0,0.0,1.0
+oilstove,n,0.0,0.0,1.0
+oink,n,0.0,0.375,0.625
+oink,v,0.0,0.0,1.0
+oireachtas,n,0.0,0.0,1.0
+ois,n,0.0,0.0,1.0
+okapia,n,0.0,0.0,1.0
+okapia genus,n,0.0,0.0,1.0
+okapia johnstoni,n,0.0,0.0,1.0
+oke,n,0.0,0.0,1.0
+oke.,a,0.375,0.0,0.625
+oke.,n,0.125,0.125,1.0
+oke.,r,0.625,0.0,0.375
+oke.,v,0.0,0.0,1.0
+okeechobee,n,0.0,0.0,1.0
+okeechobee waterway,n,0.0,0.0,1.0
+okeh,n,0.125,0.125,1.0
+okenfuss,n,0.0,0.0,1.0
+oker,a,0.0,0.0,1.0
+oker,n,0.0,0.0,1.0
+oker kuning,n,0.0,0.0,1.0
+okinawa,n,0.0,0.0,1.0
+okinawa kampanye,n,0.0,0.0,1.0
+oklahoma,n,0.0,0.0,1.0
+oklusi koroner,n,0.0,0.0,1.0
+oklusif,a,0.125,0.5,0.625
+oklusif,n,0.0,0.0,1.0
+okra,n,0.0,0.0,1.0
+oksalat,n,0.0,0.0,1.0
+oksaloasetat,n,0.0,0.0,1.0
+oksasilin,n,0.125,0.0,0.875
+oksida,n,0.0,0.0,1.0
+oksida arsenous,n,0.0,0.0,1.0
+oksida nitrat,n,0.0,0.0,1.0
+oksida nitrogen,n,0.0,0.0,1.0
+oksida tembaga,n,0.0,0.0,1.0
+oksida terhidrasi,n,0.0,0.0,1.0
+oksidan,n,0.0,0.0,1.0
+oksidasi,n,0.0,0.0,1.0
+oksidasi-reduksi,n,0.0,0.0,1.0
+oksidatif,a,0.0,0.0,1.0
+oksidator,a,0.0,0.0,1.0
+oksidator,n,0.0,0.0,1.0
+oksidoreduktase,n,0.0,0.0,1.0
+oksigen,n,0.0,0.0,1.0
+oksigen cair,n,0.0,0.0,1.0
+oksigenasi,n,0.0,0.0,1.0
+oksihemoglobin,n,0.0,0.0,1.0
+oksim,n,0.0,0.0,1.0
+oksimeter,n,0.0,0.0,1.0
+oksitosin,n,0.0,0.0,1.0
+oktaf,n,0.0,0.0,1.0
+oktaf musik,n,0.0,0.0,1.0
+oktahedron biasa,n,0.0,0.0,1.0
+oktan,n,0.0,0.0,1.0
+oktet,n,0.025,0.0,0.975
+oktoberfest,n,0.0,0.0,1.0
+okulasi,n,0.0,0.0,1.0
+okultasi,n,0.0,0.0,1.0
+okultis,n,0.0,0.0,1.0
+okultisme,n,0.0,0.0,1.0
+olah raga,n,0.0,0.0,1.0
+olahraga,a,0.1875,0.0625,0.875
+olahraga,n,0.025,0.1,0.925
+olahraga,v,0.25,0.125,0.875
+olahraga air,n,0.0,0.0,1.0
+olahraga berkuda,n,0.125,0.0,0.875
+olahraga darah,n,0.0,0.0,1.0
+olahraga jaket,n,0.0,0.0,1.0
+olahraga lapangan,n,0.0,0.0,1.0
+olahraga lari,a,0.0416666666667,0.0,0.958333333333
+olahraga lari,n,0.025,0.0,0.975
+olahraga luar ruangan,n,0.0,0.0,1.0
+olahraga man,n,0.0,0.0,1.0
+olahraga menaiki ombak dgn papan luncur,n,0.0,0.0,1.0
+olahraga menerapkan,n,0.0,0.0,1.0
+olahraga menyelam,n,0.0,0.0,1.0
+olahraga penyiar,n,0.0,0.0,1.0
+olahraga tim,n,0.0,0.0,1.0
+olahraga wanita,n,0.0,0.25,0.75
+olahragawan,n,0.0,0.0,1.0
+olahragawati,n,0.0,0.0,1.0
+old delhi,n,0.0,0.0,1.0
+oldenburg,n,0.0,0.0,1.0
+oldie,n,0.0,0.0,1.0
+oldie emas,n,0.0,0.0,1.0
+oldline,a,0.0,0.0,1.0
+oldtimer,n,0.0625,0.0,0.9375
+oldwench,n,0.0,0.0,1.0
+oldwife,n,0.0,0.0,1.0
+oleaceous,a,0.0,0.0,1.0
+oleaginousness,n,0.25,0.1875,0.9375
+oleales,n,0.0,0.0,1.0
+oleander,n,0.0,0.0,1.0
+oleander kuning,n,0.0,0.0,1.0
+oleander pergi,n,0.125,0.0,0.875
+olefin,n,0.0,0.0,1.0
+oleh,n,0.111111111111,0.0,0.888888888889
+oleh,v,0.0,0.0,1.0
+oleh agen,n,0.0,0.0,1.0
+oleh alam,r,0.0,0.0,1.0
+oleh belanda,n,0.0,0.0,1.0
+oleh bye,r,0.0,0.0,1.0
+oleh dan dengan,r,0.0,0.0,1.0
+oleh derajat kecil,r,0.0,0.0,1.0
+oleh genus,n,0.0,0.0,1.0
+oleh hadiah,n,0.0,0.0,1.0
+oleh inci,r,0.0,0.0,1.0
+oleh james,n,0.0,0.0,1.0
+oleh jamur candida albicans,a,0.125,0.25,0.875
+oleh john,n,0.0,0.0,1.0
+oleh karena,n,0.0,0.0,1.0
+oleh masyarakat,r,0.0,0.0,1.0
+oleh memori,r,0.0,0.0,1.0
+oleh noir,n,0.0,0.0,1.0
+oleh perancis,n,0.125,0.0,0.875
+oleh presiden,r,0.0,0.0,1.0
+oleh puncak,n,0.0,0.0,1.0
+oleh rmandize,v,0.0,0.0,1.0
+oleh strophize,v,0.0,0.0,1.0
+oleh tembakan panjang,r,0.0,0.0,1.0
+oleh tongkat,n,0.0,0.0,1.0
+olein,n,0.0,0.625,0.375
+olekranon,n,0.0,0.0,1.0
+oleophilic,a,0.125,0.0,0.875
+oleoresin,n,0.0,0.0,1.0
+oleoresin capiscum,n,0.0,0.0,1.0
+olesi,n,0.0,0.0625,0.9375
+olesi stitch,n,0.0,0.125,0.875
+oleskan,v,0.0,0.0,1.0
+olfactory bulb,n,0.0,0.0,1.0
+olfersia,n,0.0,0.0,1.0
+olfersia cervina,n,0.0,0.0,1.0
+olfersia genus,n,0.0,0.0,1.0
+olga korbut,n,0.0,0.0,1.0
+oli motor,n,0.0,0.0,1.0
+oligarki,n,0.0,0.0,1.0
+oligarkis,a,0.0,0.0,1.0
+oligochaete,n,0.0,0.0,1.0
+oligoclase,n,0.0,0.0,1.0
+oligodactyly,n,0.0,0.0,1.0
+oligodendria,n,0.0,0.0,1.0
+oligodendrocyte,n,0.0,0.0,1.0
+oligodendroglia,n,0.0,0.0,1.0
+oligodontia,n,0.0,0.0,1.0
+oligomenore,n,0.0,0.0,1.0
+oligoplites,n,0.0,0.0,1.0
+oligoplites genus,n,0.0,0.0,1.0
+oligopoli,n,0.0,0.0,1.0
+oligoporus,n,0.0,0.0,1.0
+oligoporus genus,n,0.0,0.0,1.0
+oligosakarida,n,0.125,0.0,0.875
+oligospermia,n,0.0,0.75,0.25
+oliguria,n,0.0,0.0625,0.9375
+oliken,n,0.0,0.0,1.0
+olimbos,n,0.0,0.0,1.0
+olimpiade,n,0.0,0.0,1.0
+olimpiade khusus,n,0.0,0.0,1.0
+olimpiade musim dingin,n,0.0,0.0,1.0
+olive brown,n,0.0,0.0,1.0
+olivedrab,n,0.0,0.0,1.0
+olivelike,a,0.25,0.25,1.0
+olivenite,n,0.0,0.0,1.0
+oliver,n,0.0,0.0,1.0
+oliver ellsworth,n,0.0,0.0,1.0
+oliver hardy,n,0.0,0.0,1.0
+oliver hazard perry,n,0.0,0.0,1.0
+oliver stone,n,0.0,0.0,1.0
+oliver tukang emas,n,0.0,0.0,1.0
+olivin,n,0.0,0.0,1.0
+ollari,n,0.0,0.0,1.0
+olmsted,n,0.0,0.0,1.0
+ology,n,0.0,0.0,1.0
+olok-olok,a,0.0,0.0,1.0
+olok-olok,n,0.0416666666667,0.0833333333333,0.958333333333
+olok-olok,v,0.0,0.1875,0.8125
+olokan,n,0.0,0.166666666667,0.833333333333
+olokan,v,0.0,0.375,0.625
+olympia,n,0.0,0.0,1.0
+olympic games,n,0.0,0.0,1.0
+olympus,n,0.0,0.0,1.0
+omaha,n,0.0,0.0,1.0
+oman,n,0.0,0.0,1.0
+omar bradley,n,0.0,0.0,1.0
+omar nelson bradley,n,0.0,0.0,1.0
+omasum,n,0.0,0.0,1.0
+ombudsman,n,0.0,0.0,1.0
+ome,a,0.25,0.0,0.75
+omega-3,n,0.0,0.0,1.0
+omega-6,n,0.0,0.0,1.0
+omelan,a,0.0,0.625,0.375
+omelan,n,0.0,0.125,0.875
+omelet pan,n,0.0,0.0,1.0
+omental bursa,n,0.0,0.0,1.0
+omentum,n,0.0,0.0,1.0
+omentum minus,n,0.0,0.0,1.0
+omentum yang lebih besar,n,0.0,0.0,1.0
+omeprazole,n,0.0,0.0,1.0
+omerta,n,0.0,0.0,1.0
+omicron,n,0.0,0.0,1.0
+omissible,a,0.625,0.0,0.375
+omissive,a,0.375,0.375,1.0
+ommastrephes,n,0.0,0.0,1.0
+ommastrephes genus,n,0.0,0.0,1.0
+ommatidium,n,0.0,0.0,1.0
+ommiad,n,0.0,0.0,1.0
+omnidirectional,a,0.0,0.125,0.875
+omnirange,n,0.0,0.0,1.0
+omnivora,n,0.0,0.0,1.0
+omomyid,n,0.0,0.0,1.0
+omong,a,0.0,0.125,0.875
+omong besar,n,0.0,0.0,1.0
+omong kosong,a,0.375,0.0,0.625
+omong kosong,n,0.0661764705882,0.0698529411765,0.996323529412
+omong kosong,v,0.025,0.0875,0.9375
+omong kosong ayat,n,0.0,0.0,1.0
+omong kosong ette,n,0.0,0.0,1.0
+omong kosong permainan,n,0.0,0.0,1.0
+omong kosong up,v,0.0,0.0,1.0
+omong kosong-shooter,n,0.0,0.0,1.0
+omongan,n,0.0,0.25,0.75
+omongan,v,0.0,0.125,0.875
+omophagia,n,0.0,0.125,0.875
+omphalocele,n,0.0,0.0,1.0
+omphaloskepsis,n,0.0,0.0,1.0
+omphalus,n,0.0,0.0,1.0
+ompong,a,0.125,0.25,0.875
+omset apple,n,0.0,0.0,1.0
+on / off switch,n,0.0,0.0,1.0
+on line,a,0.0,0.0,1.0
+on line,v,0.0,0.0,1.0
+on-key,a,0.5,0.0,0.5
+on-line basis data,n,0.0,0.0,1.0
+on-lisensi,n,0.0,0.0,1.0
+on-off,n,0.0,0.0,1.0
+on-the-job,a,0.0,0.0,1.0
+on-the-scene,a,0.0,0.0,1.0
+on-tsai,n,0.0,0.0,1.0
+on_the_go,a,0.125,0.0,0.875
+onani,n,0.125,0.0,0.875
+onanisme,n,0.0625,0.0,0.9375
+onchocerciasis,n,0.0,0.0,1.0
+oncidium,n,0.0,0.125,0.875
+one tiga puluh detik,n,0.0,0.0,1.0
+one-night stand,n,0.0,0.0,1.0
+one-sixty-fourth,n,0.0,0.0,1.0
+oneida,n,0.0,0.0,1.0
+oneirism,n,0.0,0.25,0.75
+oneiromancer,n,0.0,0.0,1.0
+oneiromancy,n,0.0,0.0,1.0
+onerousness,n,0.25,0.625,0.625
+ongkos bis,n,0.0,0.0,1.0
+ongkos kirim,n,0.0,0.0,1.0
+ongkos kirim meteran,n,0.125,0.0,0.875
+ongkos-engkau-baik,n,0.0,0.125,0.875
+oniscidae,n,0.0,0.0,1.0
+oniscidae keluarga,n,0.0,0.0,1.0
+oniscus genus,n,0.0,0.375,0.625
+onkogen,n,0.0,0.0,1.0
+onkologi,a,0.0,0.0,1.0
+onkologi,n,0.0,0.0,1.0
+onobrychis,n,0.0,0.0,1.0
+onobrychis genus,n,0.0,0.0,1.0
+onobrychis viciaefolia,n,0.0,0.0,1.0
+onobrychis viciifolia,n,0.0,0.0,1.0
+onoclea,n,0.0,0.0,1.0
+onoclea genus,n,0.0,0.0,1.0
+onoclea struthiopteris,n,0.125,0.0,0.875
+onomancer,n,0.0,0.0,1.0
+onomancy,n,0.0,0.0,1.0
+onomastic,a,0.0,0.0,1.0
+onomasticon,n,0.125,0.0,0.875
+onomatomania,n,0.0,0.0,1.0
+onomatope,a,0.1875,0.0625,0.875
+onomatopoeical,a,0.0,0.0,1.0
+onomatopoetic,a,0.1875,0.0625,0.875
+ononis,n,0.0,0.0,1.0
+ononis genus,n,0.0,0.0,1.0
+ononis repens,n,0.0,0.0,1.0
+onopordon,n,0.0,0.0,1.0
+onopordon genus,n,0.0,0.0,1.0
+onopordum,n,0.0,0.0,1.0
+onopordum acanthium,n,0.0,0.0,1.0
+onopordum genus,n,0.0,0.0,1.0
+onosmodium,n,0.0,0.0,1.0
+onosmodium genus,n,0.0,0.0,1.0
+ons,n,0.0,0.0,1.0
+ons apotek,n,0.0,0.0,1.0
+ons cairan,n,0.0,0.0,1.0
+onsecure,n,0.0,0.25,0.75
+onside,a,0.0,0.0,1.0
+ontario,n,0.125,0.0,0.875
+ontogenesis,n,0.0,0.0,1.0
+ontogeni,n,0.0,0.0,1.0
+ontologi,n,0.25,0.0,0.75
+ontologis,a,0.0,0.0,1.0
+onychium,n,0.0,0.0,1.0
+onychium genus,n,0.0,0.0,1.0
+onychogalea,n,0.0,0.0,1.0
+onychogalea genus,n,0.0,0.0,1.0
+onycholysis,n,0.0,0.125,0.875
+onychomys,n,0.25,0.0,0.75
+onychomys genus,n,0.25,0.0,0.75
+onychophoran,n,0.0,0.0,1.0
+onychosis,n,0.125,0.625,0.5
+onyks,n,0.0,0.0,1.0
+onymous,a,0.0,0.0,1.0
+onyx marmer,n,0.0,0.25,0.75
+onyx meksiko,n,0.0,0.25,0.75
+onyxis,n,0.375,0.0,0.625
+ooforektomi,n,0.0,0.0,1.0
+oogenesis,n,0.0,0.0,1.0
+oology,n,0.0,0.0,1.0
+oolong,n,0.0,0.0,1.0
+oophoritis,n,0.0,0.75,0.25
+oophorosalpingectomy,n,0.0,0.0,1.0
+oosit,n,0.0,0.0,1.0
+oosphere,n,0.0,0.125,0.875
+oospora,n,0.25,0.0,0.75
+ootid,n,0.0,0.0,1.0
+opacify,v,0.0625,0.0625,1.0
+opacity optik,n,0.0,0.125,0.875
+opah,n,0.0,0.0,1.0
+opah dunia baru,n,0.0,0.0,1.0
+opal,n,0.0,0.0,1.0
+opal api,n,0.0,0.0,1.0
+opal harlequin,n,0.0,0.0,1.0
+opal hitam,n,0.0,0.0,1.0
+opalesce,v,0.0,0.0,1.0
+opalescence,n,0.0,0.0,1.0
+opaline,a,0.0,0.0,1.0
+opalize,v,0.0,0.0,1.0
+opec,n,0.0,0.0,1.0
+opel,n,0.0,0.0,1.0
+opelet,n,0.0,0.0,1.0
+open account,n,0.0,0.0,1.0
+open house,n,0.0,0.0,1.0
+open order,n,0.0,0.0,1.0
+open-berkerah,a,0.0,0.625,0.375
+open-end kunci,n,0.0,0.0,1.0
+open-end perusahaan investasi,n,0.0,0.0,1.0
+open-face sandwich,n,0.0,0.5,0.5
+open-plan,a,0.0,0.0,1.0
+open-source,a,0.0,0.0,1.0
+opencast,a,0.0,0.0,1.0
+opencut,a,0.0,0.0,1.0
+openhanded,a,0.5,0.0,0.5
+openhearted,a,0.5625,0.0,0.4375
+opepe,n,0.0,0.0,1.0
+opera,n,0.0,0.0,1.0
+opera bouffe,n,0.0,0.0,1.0
+opera hiburan,n,0.0,0.0,1.0
+opera hood,n,0.0,0.0,1.0
+opera komik,n,0.0,0.0,1.0
+opera kuda,n,0.0,0.0,1.0
+opera rock,n,0.0,0.0,1.0
+opera sabun,n,0.0,0.0,1.0
+operan,n,0.0,0.0,1.0
+operasi,a,0.0,0.0,1.0
+operasi,n,0.00568181818182,0.00568181818182,1.0
+operasi,v,0.025,0.0625,0.9625
+operasi amandel,n,0.0,0.0,1.0
+operasi amfibi,n,0.0,0.0,1.0
+operasi aritmatika,n,0.0,0.0,1.0
+operasi aritmatika biner,n,0.0,0.0,1.0
+operasi asynchronous,n,0.0,0.375,0.625
+operasi badai gurun,n,0.0,0.0,1.0
+operasi bersamaan,n,0.0,0.0,1.0
+operasi besar,n,0.0,0.0,1.0
+operasi biner,n,0.0,0.0,1.0
+operasi boolean,n,0.0,0.0,1.0
+operasi bypass koroner,n,0.0,0.0,1.0
+operasi caesar,n,0.0,0.0,1.0
+operasi cyclodestructive,n,0.0,0.625,0.375
+operasi ekstrakapsular,n,0.0,0.125,0.875
+operasi filtrasi,n,0.0,0.0,1.0
+operasi ganti kelamin,n,0.0,0.0,1.0
+operasi gigi,n,0.0,0.0,1.0
+operasi hitam,n,0.0,0.625,0.375
+operasi intelijen,n,0.0,0.0,1.0
+operasi intracapsular,n,0.0,0.0,1.0
+operasi jantung,n,0.0,0.0,1.0
+operasi jantung terbuka,n,0.0,0.0,1.0
+operasi katarak,n,0.0,0.0,1.0
+operasi kimia,n,0.0,0.0,1.0
+operasi klandestin,n,0.0,0.0,1.0
+operasi kognitif,n,0.0,0.0,1.0
+operasi komputer,n,0.0,0.0,1.0
+operasi kontrol,n,0.0,0.0,1.0
+operasi logika,n,0.0,0.0,1.0
+operasi logis,n,0.0,0.0,1.0
+operasi martir,n,0.0,0.0,1.0
+operasi mata,n,0.0,0.0,1.0
+operasi matematika,n,0.0,0.0,1.0
+operasi matriks,n,0.0,0.0,1.0
+operasi mesin,n,0.0,0.0,1.0
+operasi militer,n,0.0,0.0,1.0
+operasi multipleks,n,0.0,0.0,1.0
+operasi otak,n,0.0,0.0,1.0
+operasi paralel,n,0.0,0.0,1.0
+operasi pencetakan,n,0.0,0.0,1.0
+operasi pengendalian kerusuhan,n,0.0,0.0,1.0
+operasi penjaga perdamaian,n,0.0,0.0,1.0
+operasi perdagangan,n,0.0,0.0,1.0
+operasi plastik,n,0.125,0.0,0.875
+operasi pohon,n,0.0,0.375,0.625
+operasi rahasia,n,0.0,0.25,0.75
+operasi real-time,n,0.0,0.0,1.0
+operasi sengatan,n,0.125,0.0,0.875
+operasi serial,n,0.0,0.0,1.0
+operasi sesar,n,0.0,0.0,1.0
+operasi simulasi militer,n,0.0,0.0,1.0
+operasi simultan,n,0.0,0.0,1.0
+operasi sinkron,n,0.0,0.0,1.0
+operasi tambahan,n,0.0,0.25,0.75
+operasi tertutup hati,n,0.0,0.0,1.0
+operasi trabecular laser,n,0.0,0.0,1.0
+operasi transeksual,n,0.0,0.0,1.0
+operasi unary,n,0.0,0.0,1.0
+operasi yang salah-situs,n,0.0,0.0,1.0
+operasional,a,0.0625,0.0,0.9375
+operasional,r,0.0,0.0,1.0
+operasionalis,a,0.0,0.0,1.0
+operatif,a,0.21875,0.0,0.78125
+operatif,n,0.0,0.0,1.0
+operationalism,n,0.0,0.0,1.0
+operatively,r,0.0,0.0,1.0
+operator,n,0.0,0.0,1.0
+operator identitas,n,0.0,0.0,1.0
+operator kamera,n,0.0,0.0,1.0
+operator linear,n,0.0,0.0,1.0
+operator telegraf,n,0.0,0.0,1.0
+operator telepon,n,0.0,0.0,1.0
+operculate,a,0.0,0.0,1.0
+operculated,a,0.0,0.0,1.0
+operet,n,0.0,0.0,1.0
+operon,n,0.0,0.0,1.0
+operoseness,n,0.25,0.375,0.875
+opheodrys,n,0.0,0.0,1.0
+opheodrys aestivus,n,0.0,0.0,1.0
+opheodrys genus,n,0.0,0.0,1.0
+opheodrys vernalis,n,0.0,0.0,1.0
+ophidism,n,0.0,0.25,0.75
+ophiodon,n,0.0,0.0,1.0
+ophiodon genus,n,0.0,0.0,1.0
+ophiodon nkudzi,n,0.0,0.0,1.0
+ophiodontidae,n,0.0,0.0,1.0
+ophiodontidae keluarga,n,0.0,0.0,1.0
+ophioglossoides malaxis,n,0.0,0.0,1.0
+ophisaurus,n,0.0,0.0,1.0
+ophisaurus genus,n,0.0,0.0,1.0
+ophiurida,n,0.0,0.0,1.0
+ophiurida subclass,n,0.0,0.0,1.0
+ophryon,n,0.0,0.0,1.0
+ophrys,n,0.0,0.0,1.0
+ophrys genus,n,0.0,0.0,1.0
+ophthalmectomy,n,0.0,0.0,1.0
+ophthalmia,n,0.0,0.875,0.125
+ophthalmia neonatorum,n,0.0,0.0,1.0
+ophthalmitis,n,0.0,0.875,0.125
+opine,v,0.0625,0.3125,0.75
+opini publik,n,0.0,0.0,1.0
+opinionative,a,0.25,0.25,1.0
+opisthobranchia subclass,n,0.0,0.0,1.0
+opisthocomidae,n,0.0,0.0,1.0
+opisthocomidae keluarga,n,0.0,0.0,1.0
+opisthognathidae,n,0.0,0.0,1.0
+opisthognathidae keluarga,n,0.0,0.0,1.0
+opisthognathous,a,0.0,0.0,1.0
+opisthorchiasis,n,0.0,0.0,1.0
+opistotonus,n,0.0,0.0,1.0
+opium,n,0.0,0.0,1.0
+opium pecandu,n,0.0,0.0,1.0
+opium poppy,n,0.0,0.0,1.0
+opium taker,n,0.0,0.0,1.0
+opopanax,n,0.0,0.0,1.0
+oportunis,a,0.125,0.0,0.875
+oportunis,n,0.0,0.0,1.0
+oportunis politik,n,0.125,0.0,0.875
+oportunistik,a,0.125,0.0,0.875
+oposisi,n,0.0,0.15625,0.84375
+oposisi antipodal,n,0.0,0.0,1.0
+oposisi gradable,n,0.625,0.0,0.375
+oposisi kutub,n,0.0,0.0,1.0
+oposisi lurus,n,0.0,0.0,1.0
+oposisi orthogonal,n,0.0,0.0,1.0
+oposisi saling,n,0.0,0.0,1.0
+oposisi ungradable,n,0.0,0.0,1.0
+opossum udang,n,0.0,0.0,1.0
+opportunely,r,0.0,0.0,1.0
+opportuneness,n,0.125,0.0,0.875
+oppositeness,n,0.0,0.0,1.0
+oppositive,a,0.25,0.375,0.875
+ops,n,0.0,0.0,1.0
+opsi saham,n,0.0,0.0,1.0
+opsi saham insentif,n,0.0,0.0,1.0
+opsin,n,0.0,0.0,1.0
+opsional,a,0.0,0.0,1.0
+opsional,r,0.125,0.0,0.875
+opsir tinggi,n,0.25,0.0,0.75
+opsonin,n,0.0,0.0,1.0
+opsonin anda,v,0.125,0.0,0.875
+opsonisasi,n,0.0,0.0,1.0
+optatif,a,0.0,0.1875,0.8125
+optatif,n,0.0,0.0,1.0
+optical disk,n,0.0,0.0,1.0
+optik,a,0.0,0.0,1.0
+optik,n,0.0,0.0,1.0
+optik,r,0.125,0.0,0.875
+optik chiasm,n,0.0,0.0,1.0
+optik cup,n,0.0,0.0,1.0
+optik elektron,n,0.0,0.0,1.0
+optik kiasma,n,0.0,0.0,1.0
+optik sumbu,n,0.0,0.0,1.0
+optikus,n,0.0,0.5,0.5
+optimal,a,0.5,0.0,0.5
+optimal,r,0.375,0.0,0.625
+optimasi,n,0.0,0.0,1.0
+optimis,a,0.59375,0.09375,0.5
+optimis,n,0.0,0.0,1.0
+optimis,r,0.5,0.0,0.5
+optimisme,n,0.3125,0.0625,0.75
+opulently,r,0.375,0.0,0.625
+opuntiales,n,0.0,0.0,1.0
+orache,n,0.0,0.0,1.0
+oracle dari delphi,n,0.0,0.0,1.0
+oracle of apollo,n,0.0,0.0,1.0
+orad,r,0.0,0.0,1.0
+orak,a,0.0,0.375,0.625
+orak-arik telur,n,0.0,0.0,1.0
+oral seks,n,0.0,0.0,1.0
+orang,n,0.0,0.0,1.0
+orang,v,0.0,0.0,1.0
+orang aliterate,n,0.0,0.0,1.0
+orang aljazair,a,0.0,0.0,1.0
+orang aljazair,n,0.0,0.0,1.0
+orang ambisius,n,0.0,0.025,0.975
+orang amerika,a,0.0,0.0,1.0
+orang amerika,n,0.0,0.0,1.0
+orang amerika latin,a,0.5,0.0,0.5
+orang amerika latin,n,0.0,0.25,0.75
+orang asing,a,0.0,0.0,1.0
+orang asing,n,0.015625,0.171875,0.84375
+orang awam,n,0.0,0.1875,0.8125
+orang ayan,a,0.0,0.125,0.875
+orang ayan,n,0.0,0.0,1.0
+orang baik,n,0.0,0.0,1.0
+orang bakhil,n,0.0,0.0625,0.9375
+orang balata,n,0.0,0.0,1.0
+orang banyak,n,0.0,0.0,1.0
+orang banyak,v,0.03125,0.03125,1.0
+orang barat,n,0.0,0.0,1.0
+orang baru,n,0.0833333333333,0.0,0.916666666667
+orang bebal,n,0.0,0.1875,0.8125
+orang bebas,n,0.0,0.0,1.0
+orang belanda,n,0.0,0.0,1.0
+orang berduka,n,0.0,0.375,0.625
+orang berhasil,n,0.0,0.5,0.5
+orang berkuasa,n,0.0,0.0,1.0
+orang berkuda,n,0.0,0.0,1.0
+orang bermuka jelek,n,0.0,0.0,1.0
+orang berpakaian buruk sekali,n,0.0,0.0,1.0
+orang berperawakan jelak,n,0.0,0.125,0.875
+orang besar,n,0.0,0.125,0.875
+orang biadab,n,0.0,0.0,1.0
+orang biasa,n,0.0,0.03125,0.96875
+orang bijak,n,0.125,0.0833333333333,0.958333333333
+orang biseksual,n,0.0,0.0,1.0
+orang bodoh,n,0.046875,0.104166666667,0.942708333333
+orang buangan,a,0.0,0.0,1.0
+orang buangan,n,0.0,0.0,1.0
+orang bunga,n,0.0,0.0,1.0
+orang bungkuk,a,0.0,0.5,0.5
+orang bungkuk,n,0.0,0.0416666666667,0.958333333333
+orang buta,n,0.0,0.25,0.75
+orang cacat,n,0.0,0.0,1.0
+orang canggung,n,0.0,0.208333333333,0.791666666667
+orang celaka,n,0.125,0.3125,0.8125
+orang congkak,n,0.0,0.25,0.75
+orang darat,n,0.0,0.0,1.0
+orang desa,n,0.0416666666667,0.125,0.916666666667
+orang di jalan,n,0.125,0.25,0.875
+orang dr utara,n,0.0,0.0,1.0
+orang dungu,n,0.125,0.075,0.95
+orang edan,a,0.625,0.375,0.75
+orang edan,n,0.0,0.0,1.0
+orang egois,n,0.0,0.0,1.0
+orang eksentrik,n,0.0,0.0,1.0
+orang emosional,n,0.5,0.25,0.75
+orang eskimo,n,0.0,0.0,1.0
+orang fanatik,n,0.0,0.0,1.0
+orang fanatik pd agama,n,0.166666666667,0.0,0.833333333333
+orang gagap,n,0.0,0.0,1.0
+orang gaji,a,0.208333333333,0.0,0.791666666667
+orang gaji,n,0.0,0.0,1.0
+orang gasang,n,0.0,0.0,1.0
+orang gemuk,a,0.0,0.0,1.0
+orang gemuk,n,0.0178571428571,0.0178571428571,1.0
+orang gemuk dan pendek,n,0.0,0.0,1.0
+orang gila,n,0.0,0.166666666667,0.833333333333
+orang goblok,n,0.625,0.0,0.375
+orang grandidentata,n,0.0,0.0,1.0
+orang gunung,n,0.0,0.0,1.0
+orang heteroseksual,n,0.0,0.0,1.0
+orang hutangan,n,0.0,0.0,1.0
+orang ilmiah,n,0.0,0.0,1.0
+orang indian,n,0.0,0.05,0.95
+orang inggeris,n,0.0,0.0,1.0
+orang inggris,n,0.0,0.0,1.0
+orang ingkar,n,0.0,0.0,1.0
+orang irlandia,n,0.0,0.0,1.0
+orang islandia,n,0.0,0.0,1.0
+orang italia hitam,n,0.0,0.0,1.0
+orang itu,n,0.0,0.0,1.0
+orang jahanam,n,0.0,0.3125,0.6875
+orang jahat,n,0.0,0.166666666667,0.833333333333
+orang jam,n,0.0,0.0,1.0
+orang jawa,a,0.0,0.0,1.0
+orang jawa,n,0.0,0.0,1.0
+orang jelek,n,0.25,0.25,1.0
+orang jenis kelamin umum,n,0.0,0.0,1.0
+orang jepang,a,0.0,0.0,1.0
+orang jepang,n,0.0,0.0,1.0
+orang jijik,n,0.0,0.125,0.875
+orang jorok,n,0.0,0.3125,0.6875
+orang jorok,v,0.0,0.0,1.0
+orang kasar,n,0.0,0.875,0.125
+orang katolik,a,0.0,0.0,1.0
+orang kaya,a,0.75,0.0,0.25
+orang kaya,n,0.025,0.0,0.975
+orang kaya baru,a,0.0,0.0416666666667,0.958333333333
+orang kaya baru,n,0.025,0.175,0.85
+orang kebiri,n,0.0,0.0,1.0
+orang kecil,n,0.0,0.0,1.0
+orang kecil yg picik,n,0.0,0.25,0.75
+orang kedua,n,0.0,0.0,1.0
+orang kepercayaan,n,0.3125,0.0,0.6875
+orang ketiga,n,0.0,0.0,1.0
+orang keturunan dr campuran orang negro dgn orang eropah,n,0.0,0.0,1.0
+orang kidal,n,0.0,0.0,1.0
+orang kikir,n,0.0535714285714,0.160714285714,0.892857142857
+orang kikuk,n,0.0,0.125,0.875
+orang kolot,n,0.0,0.0,1.0
+orang kreatif,n,0.0,0.0,1.0
+orang kulit berwarna,n,0.0,0.0,1.0
+orang kulit hitam,n,0.0,0.0,1.0
+orang kulit putih,n,0.0,0.0,1.0
+orang kurus,n,0.0,0.0,1.0
+orang laki-laki,n,0.0,0.0,1.0
+orang lama,n,0.0625,0.0,0.9375
+orang lemah,n,0.0,0.125,0.875
+orang licik,n,0.0,0.375,0.625
+orang luar,n,0.0,0.625,0.375
+orang lucu,n,0.0,0.0,1.0
+orang lumpuh,a,0.0,0.3125,0.6875
+orang lumpuh,n,0.0,0.5,0.5
+orang lurus,n,0.0,0.0,1.0
+orang malang,n,0.0,0.25,0.75
+orang menganggur,n,0.0,0.25,0.75
+orang miskin,n,0.0,0.125,0.875
+orang muda,n,0.0,0.0,1.0
+orang nakal,n,0.125,0.125,1.0
+orang negro,n,0.0,0.0625,0.9375
+orang ngotot,n,0.0,0.0,1.0
+orang nonreligius,n,0.125,0.25,0.875
+orang norwegia,a,0.0,0.0,1.0
+orang norwegia,n,0.0,0.0,1.0
+orang orang,n,0.0,0.0,1.0
+orang orang,v,0.0,0.0,1.0
+orang oriental,n,0.0,0.0,1.0
+orang palaquium,n,0.0,0.0,1.0
+orang pedalaman,n,0.0,0.0,1.0
+orang pelupa,n,0.0,0.125,0.875
+orang pemarah,n,0.0,0.125,0.875
+orang penting,n,0.0,0.0,1.0
+orang perancis,n,0.0,0.0,1.0
+orang perempuan,n,0.0,0.0,1.0
+orang pertama,n,0.0,0.0,1.0
+orang pincang,n,0.125,0.0,0.875
+orang pincang,v,0.0,0.375,0.625
+orang prancis,n,0.0,0.0,1.0
+orang primitif,n,0.0,0.0,1.0
+orang profesional,n,0.0,0.0,1.0
+orang psikotik,n,0.0,0.375,0.625
+orang remaja,n,0.0,0.0,1.0
+orang rumah,n,0.0,0.0,1.0
+orang sakit,n,0.0,0.25,0.75
+orang selatan,n,0.0,0.0,1.0
+orang setia,n,0.0,0.0,1.0
+orang sewaan,n,0.0,0.0,1.0
+orang skotlandia,n,0.0,0.0,1.0
+orang slavia,n,0.0,0.0,1.0
+orang sombong,n,0.0,0.0,1.0
+orang spanyol,n,0.0,0.0,1.0
+orang suci,n,0.15,0.0,0.85
+orang suci,v,0.0,0.0,1.0
+orang swedia,n,0.0,0.0,1.0
+orang swiss,n,0.0,0.0,1.0
+orang tabah,n,0.0,0.0,1.0
+orang telanjang,n,0.0,0.0,1.0
+orang tentara cadangan,n,0.0,0.0,1.0
+orang terbaik,n,0.0,0.0,1.0
+orang terhadap premanisme dan narkoba,n,0.0,0.0,1.0
+orang terkemuka,n,0.0,0.0,1.0
+orang terkenal,n,0.0,0.0,1.0
+orang terlantar,n,0.0,0.0,1.0
+orang termasyhur,n,0.0,0.0,1.0
+orang terpelajar,n,0.1875,0.0625,0.875
+orang tidak baik,n,0.0,0.0,1.0
+orang tidak tahu berterima kasih,n,0.0,0.0,1.0
+orang tidur,n,0.125,0.0,0.875
+orang timur,n,0.0,0.0,1.0
+orang tolol,n,0.0,0.25,0.75
+orang tua,n,0.0625,0.0,0.9375
+orang tua angkatnya,n,0.0,0.0,1.0
+orang tua asuh,n,0.0,0.0,1.0
+orang tua dari gunung,n,0.0,0.0,1.0
+orang tua kotor,n,0.125,0.0,0.875
+orang tuli,n,0.0,0.25,0.75
+orang udik,a,0.125,0.0,0.875
+orang udik,n,0.0625,0.40625,0.65625
+orang umum,n,0.0,0.125,0.875
+orang utan,n,0.0,0.0,1.0
+orang warna,n,0.0,0.0,1.0
+orang yang baik,n,0.375,0.0,0.625
+orang yang bekerja,n,0.0,0.0,1.0
+orang yang berkuasa,n,0.0,0.0,1.0
+orang yang berpengaruh,n,0.0,0.0,1.0
+orang yang buruk,n,0.0,0.125,0.875
+orang yang buta huruf,n,0.0,0.5,0.5
+orang yang dipilih,n,0.0,0.0,1.0
+orang yang emosional,n,0.125,0.0,0.875
+orang yang meninggal,n,0.0,0.375,0.625
+orang yang religius,n,0.0,0.0,1.0
+orang yang sakit,n,0.0,0.25,0.75
+orang yang sangat penting,n,0.0,0.0,1.0
+orang yang sudah mati,n,0.0,0.375,0.625
+orang yang tidak berpendidikan,n,0.0,0.0,1.0
+orang yang tidak berpengalaman,n,0.125,0.0,0.875
+orang yang tidak diinginkan,n,0.25,0.375,0.875
+orang yang tidak menyenangkan,n,0.25,0.5,0.75
+orang yang tidak terampil,n,0.0,0.0,1.0
+orang yg adil dan jujur,n,0.25,0.125,0.875
+orang yg aneh,n,0.0,0.291666666667,0.708333333333
+orang yg aneh makanan,n,0.0,0.0,1.0
+orang yg aneh sifatnya,n,0.125,0.0,0.875
+orang yg banyak makan,n,0.0,0.0,1.0
+orang yg berfantasi saja,n,0.0,0.0,1.0
+orang yg beristri dua,n,0.0,0.0,1.0
+orang yg berjalan cepat,n,0.0,0.0,1.0
+orang yg berjalan sambil tidur,n,0.0,0.0,1.0
+orang yg berjalan-jalan pd malam,n,0.0,0.0,1.0
+orang yg berkompromi,n,0.0,0.0,1.0
+orang yg berlagak,n,0.0,0.25,0.75
+orang yg bermalas-malas,n,0.25,0.0,0.75
+orang yg berpegang kpd disiplin,n,0.375,0.375,1.0
+orang yg berpendapat anti bangsa yahudi,a,0.0,0.0,1.0
+orang yg berpendapat anti bangsa yahudi,n,0.0,0.0,1.0
+orang yg berpengalaman dlm hal-hal duniawi,n,0.0,0.0,1.0
+orang yg berpengalaman dlm hal-hal duniawi,v,0.03125,0.03125,1.0
+orang yg berpengaruh,n,0.0,0.0,1.0
+orang yg berpenyakit lagi,n,0.3125,0.1875,0.875
+orang yg berperang tanding,n,0.0,0.0,1.0
+orang yg bersemburit,n,0.0,0.0,1.0
+orang yg bersuka ria,n,0.0,0.166666666667,0.833333333333
+orang yg bertingkah laku kasar,n,0.0,0.0,1.0
+orang yg berwenang dlm naik banding,a,0.0,0.0,1.0
+orang yg berwenang dlm naik banding,n,0.0,0.0,1.0
+orang yg diangkat,n,0.0,0.0,1.0
+orang yg diberi beasiswa,n,0.0,0.0,1.0
+orang yg ditunjuk,n,0.0,0.0,1.0
+orang yg diusir,n,0.0,0.0,1.0
+orang yg dpt ditertawakan,n,0.0,0.0,1.0
+orang yg dpt lekas mengerti,a,0.5,0.25,0.75
+orang yg dpt lekas mengerti,n,0.0,0.0,1.0
+orang yg gagal dlm segala-galanya,n,0.125,0.125,1.0
+orang yg gila kedudukan,n,0.375,0.0,0.625
+orang yg gila ketakutan,n,0.0,0.375,0.625
+orang yg hidup di pinggiran kota,n,0.0,0.0,1.0
+orang yg janggal,n,0.0,0.0,1.0
+orang yg kalah dlm pemilihan,n,0.0,0.25,0.75
+orang yg keras tata tertibnya,n,0.375,0.375,1.0
+orang yg kurang ajar,v,0.0,0.25,0.75
+orang yg kurang sopan,a,0.1875,0.125,0.9375
+orang yg kurang sopan,n,0.0,0.375,0.625
+orang yg kurang tangkas,n,0.0,0.0,1.0
+orang yg lambat tapi tekun bekerja,n,0.125,0.0,0.875
+orang yg lengah,n,0.0,0.125,0.875
+orang yg lewat,n,0.0,0.0,1.0
+orang yg luar biasa,n,0.0416666666667,0.333333333333,0.708333333333
+orang yg masih hijau,n,0.0,0.25,0.75
+orang yg mau mencapai kariernya yg tinggi,n,0.0,0.0,1.0
+orang yg melalaikan kewajiban,n,0.0,0.0,1.0
+orang yg melarikan diri dr tugas wamil,n,0.0,0.0,1.0
+orang yg memainkan kata,n,0.125,0.0,0.875
+orang yg membantah perkawinan,n,0.0,0.125,0.875
+orang yg memberangkatkan,n,0.0,0.0,1.0
+orang yg memberi keterangan rahasia,n,0.0,0.0,1.0
+orang yg membosankan,n,0.0,0.25,0.75
+orang yg membunyikan sesuatu,n,0.0,0.0,1.0
+orang yg mementingkan kesenangan badaniah,n,0.125,0.0,0.875
+orang yg mempelajari dongeng,n,0.0,0.0,1.0
+orang yg mempertahankan kemurnian bahasa,n,0.5,0.0,0.5
+orang yg memutarbalikkan arti,n,0.0,0.0,1.0
+orang yg mencacat dlm buku harian,n,0.0,0.0,1.0
+orang yg mencandu thd minuman keras,n,0.0,0.0,1.0
+orang yg mencibir,n,0.0,0.25,0.75
+orang yg mencibir merpati,n,0.0,0.0,1.0
+orang yg mencoba memecahkan pemogokan,n,0.0,0.0,1.0
+orang yg mendapat izin,n,0.0,0.0,1.0
+orang yg menentang pemujaan patung berhala,n,0.0,0.0,1.0
+orang yg menerima sinyal,n,0.0,0.0,1.0
+orang yg mengadakan percobaan,n,0.0,0.0,1.0
+orang yg mengenal hal luas,n,0.0,0.0,1.0
+orang yg mengetahui segala hal,n,0.0,0.0,1.0
+orang yg mengiklankan sesuatu,n,0.0,0.0,1.0
+orang yg mengongkosi,n,0.0,0.0,1.0
+orang yg mengumpat tanpa alasan,n,0.0,0.75,0.25
+orang yg mengumpul mata uang,n,0.0,0.0,1.0
+orang yg meniadakan agama,n,0.0,0.0,1.0
+orang yg meninggal,n,0.0,0.375,0.625
+orang yg menjalar,n,0.0,0.0,1.0
+orang yg menulis sajak buruk,n,0.0,0.0625,0.9375
+orang yg menutupi perasaannya,n,0.0,0.0,1.0
+orang yg menyamaratakan,n,0.0,0.0,1.0
+orang yg menyeberang sungai,n,0.0,0.0,1.0
+orang yg menyerahkan hak,n,0.0,0.0,1.0
+orang yg menyogok,n,0.0,0.0,1.0
+orang yg merahasiakan pendapatnya,n,0.0,0.0,1.0
+orang yg merusakan kegembiraan orang lain,n,0.125,0.25,0.875
+orang yg mudah terharu,n,0.375,0.25,0.875
+orang yg pandai bercerita,n,0.0,0.0,1.0
+orang yg pangkatnya tinggi,n,0.0,0.0,1.0
+orang yg perang rambutnya,n,0.0,0.0,1.0
+orang yg percaya dlm kekuataan ketentaraan,n,0.0,0.0,1.0
+orang yg pertama kali melakukan kelanggaran,n,0.0,0.0,1.0
+orang yg pura-pura terpelajar,n,0.0,0.375,0.625
+orang yg rajin dan giat,n,0.0,0.0,1.0
+orang yg sangat luas pergaulannya,n,0.0,0.0,1.0
+orang yg selalu ingin membantu,n,0.0,0.0,1.0
+orang yg selalu pergi ke gereja,n,0.0,0.0,1.0
+orang yg serba tahu,n,0.0625,0.0,0.9375
+orang yg sering merenung,n,0.0,0.0,1.0
+orang yg sering ragu-ragu,n,0.25,0.0,0.75
+orang yg sok tahu,n,0.0,0.25,0.75
+orang yg suka bekerja sendirian,n,0.0,0.0,1.0
+orang yg suka berdebat,n,0.5,0.0,0.5
+orang yg suka berkecek-kecek,n,0.0,0.0,1.0
+orang yg suka berolok-olok,n,0.0,0.0,1.0
+orang yg suka campur tangan dlm urusan orang lain,n,0.0,0.0,1.0
+orang yg suka damai,n,0.0,0.0,1.0
+orang yg suka ikut campur dlm urusan orang lain,n,0.0,0.0,1.0
+orang yg suka kesenangan badaniah,a,0.625,0.0,0.375
+orang yg suka kesenangan badaniah,n,0.0,0.0,1.0
+orang yg suka memperlihatkan kecakapannya,n,0.0625,0.3125,0.75
+orang yg suka mencuri,n,0.0,0.375,0.625
+orang yg suka mengambil risiko,n,0.0,0.0,1.0
+orang yg suka mengasingkan negerinya dr dunia,a,0.0,0.0,1.0
+orang yg suka mengasingkan negerinya dr dunia,n,0.0,0.0,1.0
+orang yg suka menunda,n,0.0,0.0,1.0
+orang yg suka tidur,n,0.0,0.0,1.0
+orang yg tak begitu bermutu,n,0.25,0.0,0.75
+orang yg tak berarti,n,0.0,0.0,1.0
+orang yg tak dpt dipercaya,a,0.3125,0.0625,0.75
+orang yg tak dpt dipercaya,n,0.0,0.0,1.0
+orang yg tdk bersemangat,n,0.0,0.0,1.0
+orang yg tdk konvensionil,a,0.375,0.0,0.625
+orang yg tdk konvensionil,n,0.0,0.0416666666667,0.958333333333
+orang yg tdk masuk bilangan,n,0.0,0.0,1.0
+orang yg tdk meminum minuman keras,a,0.0,0.625,0.375
+orang yg tdk meminum minuman keras,n,0.0,0.0,1.0
+orang yg tdk mengakui ajaran agama,n,0.0,0.0,1.0
+orang yg tdk percaya,n,0.0,0.0,1.0
+orang yg terlalu tinggi,n,0.0,0.0,1.0
+orang yg terlambat,n,0.0,0.0,1.0
+orang yg tersesat pandangannya,n,0.0625,0.125,0.9375
+orang yg tidur pd siang hari dan bekerja pd malam,n,0.0,0.0,1.0
+orang yunani,n,0.0,0.0,1.0
+orang-orang,n,0.0,0.0,1.0
+orang-orang awam,n,0.25,0.375,0.875
+orang-orang baik,n,0.0,0.0,1.0
+orang-orang inggris,n,0.0,0.0,1.0
+orang-orang jembel,n,0.0,0.0,1.0
+orang-orang kasar,n,0.0,0.0,1.0
+orang-orang kaya,n,0.0,0.0,1.0
+orang-orang seperti,n,0.125,0.0,0.875
+orange balsam,n,0.0,0.0,1.0
+orange blossom-anggrek,n,0.0,0.0,1.0
+orange daisy,n,0.0,0.0,1.0
+orange grove,n,0.0,0.0,1.0
+orange hawkweed,n,0.0,0.0,1.0
+orange jerawat jamur,n,0.0,0.0,1.0
+orange kadmium,n,0.0,0.0,1.0
+orange liar,n,0.0,0.0,1.0
+orange merah,n,0.0,0.0,1.0
+orange milkwort,n,0.0,0.0,1.0
+orange mock,n,0.0,0.0,1.0
+orange negara bebas,n,0.0,0.0,1.0
+orange ness,n,0.0,0.0,1.0
+orange pekoe,n,0.375,0.0,0.625
+orange pippin cox ini,n,0.0,0.0,1.0
+orange pusar,n,0.0,0.0,1.0
+orange tapal kuda kelelawar,n,0.0,0.0,1.0
+orange toast,n,0.0,0.0,1.0
+orange tortrix,n,0.0,0.0,1.0
+orange trifoliate,n,0.0,0.0,1.0
+orangeade,n,0.0,0.125,0.875
+orangeman,n,0.0,0.0,1.0
+orangewood,n,0.0,0.0,1.0
+orangish,a,0.0,0.0,1.0
+orangish-red,a,0.0,0.0,1.0
+orangtua,a,0.0,0.0,1.0
+orangtua,n,0.0416666666667,0.0,0.958333333333
+orangutan,n,0.0,0.0,1.0
+oranye asli,n,0.0,0.0,1.0
+oranye berukuran,a,0.125,0.0,0.875
+oranye kemerahan,a,0.0,0.0,1.0
+oranye kemerahan,n,0.0,0.0,1.0
+oranye kuning,n,0.0,0.0,1.0
+oranye-bunga,a,0.0,0.0,1.0
+oranye-coklat,a,0.0,0.0,1.0
+oranye-merah,a,0.0,0.0,1.0
+oranye-warni,a,0.0,0.0,1.0
+orasi perpisahan,n,0.0,0.0,1.0
+orasi salutatory,n,0.375,0.0,0.625
+orasone,n,0.0,0.0,1.0
+orb weaver-,n,0.0,0.0,1.0
+orb-menenun laba-laba,n,0.0,0.0,1.0
+orb-tenun,a,0.0,0.375,0.625
+orbiculata,a,0.0,0.0,1.0
+orbignya,n,0.0,0.0,1.0
+orbignya cohune,n,0.0,0.0,1.0
+orbignya genus,n,0.0,0.0,1.0
+orbignya martiana,n,0.125,0.0,0.875
+orbignya phalerata,n,0.125,0.0,0.875
+orbignya spesiosa,n,0.125,0.0,0.875
+orbit,n,0.0,0.0,1.0
+orbit,v,0.0,0.0,1.0
+orbit angkasa,n,0.0,0.0,1.0
+orbit geostasioner,n,0.0,0.0,1.0
+orbit geosynchronous,n,0.0,0.0,1.0
+orbit kranial,n,0.0,0.0,1.0
+orbital,a,0.0,0.0,1.0
+orbital,n,0.0,0.0,1.0
+orbitual,a,0.0,0.125,0.875
+orca,n,0.0,0.0,1.0
+orchestiidae,n,0.0,0.0,1.0
+orchestiidae keluarga,n,0.0,0.0,1.0
+orchidalgia,n,0.0,0.625,0.375
+orchiectomy,n,0.0,0.0,1.0
+orchiopexy,n,0.0,0.0,1.0
+orchis,n,0.0,0.0,1.0
+orchis berpohon,n,0.0,0.0,1.0
+orchis compang-camping,n,0.0,0.0,1.0
+orchis ginjal,n,0.0,0.0,1.0
+orchis laki-laki,n,0.0,0.0,1.0
+orchis mascula,n,0.0,0.0,1.0
+orchis mencolok,n,0.0,0.0,1.0
+orchis papilionaceae,n,0.0,0.0,1.0
+orchis putih berpohon,n,0.0,0.0,1.0
+orchis ungu-berkerudung,n,0.0,0.0,1.0
+orchitis,n,0.0,0.875,0.125
+orchotomy,n,0.0,0.0,1.0
+orczy,n,0.0,0.0,1.0
+ord tikus kangguru,n,0.0,0.0,1.0
+ordainer,n,0.0,0.0,1.0
+order form,n,0.0,0.0,1.0
+order lobata,n,0.0,0.0,1.0
+order odonata,n,0.0,0.0,1.0
+order produksi,n,0.0,0.0,1.0
+order-chenopodiales,n,0.25,0.0,0.75
+ordinand,n,0.0,0.0,1.0
+ordinat,n,0.0,0.0,1.0
+ordinat,v,0.0625,0.0,0.9375
+ordo acarina,n,0.0,0.0,1.0
+ordo cetacea,n,0.0,0.0,1.0
+ordo coleoptera,n,0.0,0.25,0.75
+ordo lagomorpha,n,0.0,0.0,1.0
+ordo monastik,n,0.0,0.0,1.0
+ordo sirenia,n,0.0,0.0,1.0
+oreamnos,n,0.0,0.0,1.0
+oreamnos americanus,n,0.0,0.0,1.0
+oreamnos genus,n,0.0,0.0,1.0
+orectolobidae keluarga,n,0.0,0.0,1.0
+orectolobus,n,0.0,0.0,1.0
+orectolobus genus,n,0.0,0.0,1.0
+oregano,n,0.0416666666667,0.0,0.958333333333
+oregano dictamnus,n,0.0,0.0,1.0
+oregano genus,n,0.0,0.0,1.0
+oregon,n,0.0,0.0,1.0
+oregon anggur,n,0.0,0.0,1.0
+oregon ash,n,0.0,0.0,1.0
+oregon cedar,n,0.0,0.0,1.0
+oregon cemara,n,0.0,0.0,1.0
+oregon holly anggur,n,0.0,0.0,1.0
+oregon jargon,n,0.0,0.0,1.0
+oregon kepiting apple,n,0.0,0.0,1.0
+oregon larch,n,0.0,0.0,1.0
+oregon lily,n,0.0,0.0,1.0
+oregon maple,n,0.0,0.0,1.0
+oregon myrtle,n,0.0,0.0,1.0
+oregon oak,n,0.0,0.0,1.0
+oregon oak putih,n,0.0,0.0,1.0
+oregon pinus,n,0.0,0.0,1.0
+oreide,n,0.0,0.0,1.0
+oreo,n,0.0,0.0,1.0
+oreo cookies,n,0.0,0.0,1.0
+oreopteris,n,0.0,0.0,1.0
+oreopteris genus,n,0.0,0.0,1.0
+oreopteris limbosperma,n,0.0,0.0,1.0
+oreortyx,n,0.0,0.0,1.0
+oreortyx genus,n,0.0,0.0,1.0
+oreortyx picta palmeri,n,0.0,0.0,1.0
+organ,n,0.0,0.0,1.0
+organ amerika,n,0.0,0.0,1.0
+organ barel,n,0.0,0.0,1.0
+organ bicara,n,0.0,0.0,1.0
+organ buluh,n,0.0,0.0,1.0
+organ ekskretoris,n,0.0,0.0,1.0
+organ eksternal,n,0.0,0.0,1.0
+organ elektronik,n,0.0,0.0,1.0
+organ end,n,0.0,0.0,1.0
+organ ereksi,n,0.0,0.0,1.0
+organ genital,n,0.0,0.0,1.0
+organ genital perempuan,n,0.0,0.0,1.0
+organ gurat sisi,n,0.0,0.0,1.0
+organ gustatory,n,0.0,0.0,1.0
+organ hammond,n,0.0,0.0,1.0
+organ jalanan,n,0.0,0.0,1.0
+organ kelamin laki-laki,n,0.0,0.0,1.0
+organ kemih,n,0.0,0.0,1.0
+organ kontraktil,n,0.0,0.0,1.0
+organ listrik,n,0.0,0.0,1.0
+organ menggiling,n,0.0,0.0,1.0
+organ pengadilan,n,0.0,0.0,1.0
+organ pernapasan,n,0.0,0.0,1.0
+organ reproduksi,n,0.0,0.0,1.0
+organ reproduksi internal yang laki-laki,n,0.0,0.0,1.0
+organ rumah,n,0.0,0.0,1.0
+organ sekretori,n,0.0,0.0,1.0
+organ sel,n,0.0,0.0,1.0
+organ tanaman,n,0.0,0.0,1.0
+organ tangan,n,0.0,0.0,1.0
+organ target,n,0.0,0.0,1.0
+organ tubuh,n,0.0,0.0,1.0
+organ uap,n,0.0,0.0,1.0
+organ vital,n,0.0,0.0,1.0
+organ vokal,n,0.0,0.0,1.0
+organ-grinder,n,0.0,0.0,1.0
+organdi,n,0.125,0.0,0.875
+organel,n,0.0,0.0,1.0
+organel sel,n,0.0,0.0,1.0
+organicism,n,0.0,0.0,1.0
+organicistic,a,0.0,0.375,0.625
+organifikasi,n,0.0,0.0,1.0
+organik,a,0.166666666667,0.0,0.833333333333
+organik,n,0.0,0.0,1.0
+organik,r,0.0416666666667,0.0,0.958333333333
+organisasi,n,0.0357142857143,0.0,0.964285714286
+organisasi berita,n,0.0,0.0,1.0
+organisasi bisnis,n,0.0,0.0,1.0
+organisasi global,n,0.0,0.0,1.0
+organisasi internasional,n,0.0,0.0,1.0
+organisasi keadilan revolusioner,n,0.0,0.0,1.0
+organisasi kesehatan dunia,n,0.0,0.0,1.0
+organisasi keuangan,n,0.0,0.0,1.0
+organisasi lini,n,0.0,0.0,1.0
+organisasi maritim internasional,n,0.0,0.0,1.0
+organisasi masyarakat yg matriarkal,n,0.0,0.0,1.0
+organisasi meteorologi dunia,n,0.0,0.0,1.0
+organisasi musik,n,0.0,0.0,1.0
+organisasi negara-negara pengekspor minyak,n,0.0,0.0,1.0
+organisasi nirlaba,n,0.0,0.0,1.0
+organisasi paramiliter,n,0.0,0.0,1.0
+organisasi pemeliharaan kesehatan,n,0.0,0.0,1.0
+organisasi penegakan hukum eropa,n,0.0,0.0,1.0
+organisasi penerbangan sipil internasional,n,0.0,0.0,1.0
+organisasi perburuhan internasional,n,0.0,0.0,1.0
+organisasi perdagangan dunia,n,0.0,0.0,1.0
+organisasi pribadi,n,0.0,0.0,1.0
+organisasi profesi,n,0.0,0.0,1.0
+organisasi revolusioner 17 november,n,0.0,0.0,1.0
+organisasi revolusioner muslim sosialis,n,0.0,0.0,1.0
+organisasi sosial,n,0.0,0.0,1.0
+organisasi teroris,n,0.0,0.0,1.0
+organisasi teroris asing,n,0.0,0.0,1.0
+organisasi untuk larangan senjata kimia,n,0.0,0.0,1.0
+organisasi yang tertindas di bumi,n,0.0,0.0,1.0
+organisatoris,a,0.0,0.0,1.0
+organisatoris,r,0.0,0.0,1.0
+organisme,a,0.0,0.0,1.0
+organisme,n,0.0,0.0,1.0
+organisme autotrofik,n,0.125,0.0,0.875
+organisme nonvascular,n,0.0,0.0,1.0
+organisme saprophytic,n,0.0,0.0,1.0
+organismic,a,0.0,0.0,1.0
+organizer nucleolus,n,0.0,0.0,1.0
+organizer nukleolus,n,0.0,0.0,1.0
+organizer pribadi,n,0.0,0.0,1.0
+organizer tenaga kerja,n,0.0,0.0,1.0
+organofosfat,n,0.0,0.0,1.0
+organza,n,0.0,0.0,1.0
+orgasme laki-laki,n,0.0,0.375,0.625
+orgel tiupan,n,0.0,0.0,1.0
+orgiastic,a,0.0625,0.0625,1.0
+oriental,n,0.0,0.0,1.0
+oriental burung hantu scops,n,0.0,0.0,1.0
+oriental cherry semak,n,0.0,0.0,1.0
+oriental sore,n,0.0,0.5,0.5
+orientale poppy,n,0.0,0.0,1.0
+orientalis yang abnormal,n,0.0,0.0,1.0
+orientalize,v,0.0,0.0,1.0
+orientalized,v,0.0,0.0,1.0
+orientasi,n,0.0416666666667,0.0,0.958333333333
+orientasi keagamaan,n,0.0,0.0,1.0
+orientasi nilai,n,0.0,0.0,1.0
+orientasi politik,n,0.0,0.0,1.0
+orientating,a,0.0,0.0,1.0
+origami,n,0.0,0.0,1.0
+originalism,n,0.0,0.0,1.0
+oriole,n,0.0,0.0,1.0
+oriole amerika,n,0.0,0.0,1.0
+oriole dunia baru,n,0.0,0.0,1.0
+oriole dunia lama,n,0.0,0.0,1.0
+oriole emas,n,0.0,0.0,1.0
+oriole kebun,n,0.0,0.0,1.0
+oriole sapi itu,n,0.0,0.0,1.0
+oriole utara,n,0.0,0.0,1.0
+oriolidae,n,0.0,0.0,1.0
+oriolidae keluarga,n,0.0,0.0,1.0
+orion,n,0.0,0.0,1.0
+orisinal,a,0.0,0.75,0.25
+orissa,n,0.0,0.0,1.0
+orites,n,0.0,0.0,1.0
+orites genus,n,0.0,0.0,1.0
+orkes gesek,n,0.0,0.0,1.0
+orkes jazz,n,0.0,0.0,1.0
+orkes simfoni,a,0.0,0.0625,0.9375
+orkes simfoni,n,0.0,0.0,1.0
+orkestra,n,0.0,0.0,1.0
+orkestra pit,n,0.0,0.0,1.0
+orkestra tari,n,0.0,0.0,1.0
+orkidektomi,n,0.0,0.0,1.0
+orlando,n,0.0,0.0,1.0
+orlando selang,n,0.0,0.0,1.0
+orleanais,n,0.0,0.0,1.0
+orleanism,n,0.0,0.0,1.0
+orleans,n,0.0,0.0,1.0
+orly,n,0.0,0.0,1.0
+ormolu,n,0.0,0.0,1.0
+ormosia,n,0.0,0.0,1.0
+ormosia genus,n,0.0,0.0,1.0
+ormosia monosperma,n,0.0,0.0,1.0
+ormuzd,n,0.5,0.0,0.5
+ornamen,n,0.0,0.0,1.0
+ornamen,v,0.0,0.0625,0.9375
+ornamen arsitektur,n,0.0,0.0,1.0
+ornamentalist,n,0.0,0.0,1.0
+ornamentally,r,0.25,0.0,0.75
+orneriness,n,0.0,0.625,0.375
+ornithine,n,0.0,0.625,0.375
+ornithischia,n,0.0,0.25,0.75
+ornithischian,n,0.0,0.0,1.0
+ornithomimid,n,0.0,0.0,1.0
+ornithomimida,n,0.0,0.0,1.0
+ornithopod,n,0.0,0.0,1.0
+ornithopodioides trigonella,n,0.0,0.0,1.0
+ornithopter,n,0.0,0.0,1.0
+orobus adiktif,n,0.0,0.0,1.0
+orofaring,n,0.0,0.0,1.0
+orofaringeal,a,0.0,0.0,1.0
+orogeny,n,0.0,0.0,1.0
+orography,n,0.0,0.0,1.0
+oroide,n,0.0,0.0,1.0
+orology,n,0.0,0.0,1.0
+orono,n,0.0,0.0,1.0
+orontium,n,0.0,0.0,1.0
+orontium aquaticum,n,0.0,0.0,1.0
+orontium genus,n,0.0,0.0,1.0
+orozco,n,0.0,0.0,1.0
+orphenadrine,n,0.0,0.25,0.75
+orpheus,n,0.0,0.0,1.0
+orphrey,n,0.0,0.25,0.75
+orpiment,n,0.0,0.0,1.0
+orpin,n,0.0,0.0,1.0
+orris,n,0.0,0.0,1.0
+orrisroot,n,0.0,0.0,1.0
+ortalis,n,0.0,0.0,1.0
+ortalis genus,n,0.0,0.0,1.0
+orthicon,n,0.0,0.0,1.0
+orthilia,n,0.0,0.0,1.0
+orthilia genus,n,0.0,0.0,1.0
+orthochorea,n,0.0,0.0,1.0
+orthoclase,n,0.0,0.0,1.0
+orthodonsi,n,0.0,0.125,0.875
+orthodonture,n,0.0,0.125,0.875
+orthoepist,n,0.0,0.0,1.0
+orthoepy,n,0.0,0.0,1.0
+orthogonal,a,0.0833333333333,0.25,0.833333333333
+orthogonality,n,0.1875,0.0625,0.875
+orthomolecular,a,0.0,0.0,1.0
+orthopedical,a,0.0,0.0,1.0
+orthopristis,n,0.0,0.0,1.0
+orthopristis chrysopterus,n,0.0,0.0,1.0
+orthopristis genus,n,0.0,0.0,1.0
+orthopter,n,0.0,0.0,1.0
+orthopteran,n,0.0,0.0,1.0
+orthopteron,n,0.0,0.0,1.0
+orthoptic,a,0.0,0.0,1.0
+orthoptist,n,0.0,0.0,1.0
+orthoscope,n,0.0,0.0,1.0
+orthotropous,a,0.0,0.0,1.0
+ortilis ilfe macalla,n,0.0,0.0,1.0
+ortodoks,a,0.15625,0.0,0.84375
+ortodoks atau,n,0.0,0.0,1.0
+ortodoks timur,a,0.0,0.0,1.0
+ortodoks timur,n,0.0,0.0,1.0
+ortodoks yunani,a,0.0,0.0,1.0
+ortodoksi yahudi,n,0.0,0.0,1.0
+ortodonsi,n,0.0,0.125,0.875
+ortodontik,a,0.0,0.0,1.0
+ortofosfat,n,0.0,0.125,0.875
+ortofosfat trisodium,n,0.0,0.0,1.0
+ortografi,n,0.0,0.0,1.0
+ortopedi,a,0.0,0.0,1.0
+ortopedi,n,0.0,0.0,1.0
+ortopedi gigi,n,0.0,0.125,0.875
+ortopnea,n,0.0,0.125,0.875
+ortostatik,a,0.0,0.0,1.0
+ortygan,n,0.125,0.0,0.875
+oruvail,n,0.0,0.0,1.0
+orycteropodidae,n,0.0,0.0,1.0
+orycteropodidae keluarga,n,0.0,0.0,1.0
+orycteropus,n,0.0,0.0,1.0
+orycteropus dekat,n,0.0,0.0,1.0
+orycteropus genus,n,0.0,0.0,1.0
+oryza,n,0.0,0.0,1.0
+oryza sativa,n,0.0,0.0,1.0
+oryzivora kodok,n,0.0,0.0,1.0
+oryzomys genus,n,0.0,0.0,1.0
+oryzomys palustris,n,0.0,0.0,1.0
+oryzopsis,n,0.0,0.0,1.0
+oryzopsis genus,n,0.0,0.0,1.0
+oryzopsis hymenoides,n,0.0,0.0,1.0
+oryzopsis miliacea,n,0.0,0.0,1.0
+os temporalis,n,0.0,0.0,1.0
+os trapezium,n,0.0,0.0,1.0
+osaka,n,0.0,0.0,1.0
+osaka bay,n,0.0,0.0,1.0
+osama bin laden,n,0.0,0.0,1.0
+osborne,n,0.0,0.0,1.0
+oscan,n,0.0,0.0,1.0
+oscan berbahasa,a,0.0,0.0,1.0
+oscar,n,0.0,0.0,1.0
+oscar o'flahertie fingal menghendaki wilde,n,0.0,0.0,1.0
+oscar palmer robertson,n,0.0,0.0,1.0
+oscar robertson,n,0.0,0.0,1.0
+oscar wilde,n,0.0,0.0,1.0
+oscheocele,n,0.0,0.0,1.0
+oscheocoele,n,0.0,0.0,1.0
+oscillatoriaceae keluarga,n,0.0,0.0,1.0
+oscine,a,0.0,0.0,1.0
+oscine,n,0.0,0.0,1.0
+oscines,n,0.0,0.0,1.0
+oscines subordo,n,0.0,0.0,1.0
+oscitance,n,0.0,0.0625,0.9375
+oscitancy,n,0.0,0.0625,0.9375
+oscitant,a,0.25,0.375,0.875
+osco-umbria,n,0.0,0.0,1.0
+osculate,v,0.0,0.208333333333,0.791666666667
+osculator,n,0.0,0.0,1.0
+oseanologi,n,0.0,0.0,1.0
+osha,n,0.0,0.0,1.0
+osier dogwood merah,n,0.0,0.0,1.0
+osier merah,n,0.0,0.0,1.0
+osilasi,n,0.0,0.0,1.0
+osilator,n,0.0,0.0,1.0
+osilator kristal,n,0.0,0.0,1.0
+osilator kuarsa,n,0.0,0.0,1.0
+osilator lokal,n,0.0,0.0,1.0
+osilograf,n,0.0,0.0,1.0
+osiloskop,n,0.0,0.0,1.0
+osiloskop sinar katoda,n,0.0,0.0,1.0
+osiris,n,0.0,0.0,1.0
+oslo,n,0.0,0.0,1.0
+osman i,n,0.0,0.0,1.0
+osmanthus,n,0.0,0.0,1.0
+osmanthus americanus,n,0.0,0.0,1.0
+osmanthus genus,n,0.0,0.0,1.0
+osmeridae,n,0.0,0.125,0.875
+osmeridae keluarga,n,0.0,0.125,0.875
+osmerus,n,0.0,0.125,0.875
+osmerus eperlanus,n,0.0,0.0,1.0
+osmerus genus,n,0.0,0.125,0.875
+osmiridium,n,0.0,0.0,1.0
+osmitrol,n,0.0,0.0,1.0
+osmium,n,0.0,0.0,1.0
+osmoreceptor,n,0.0,0.0,1.0
+osmosa,n,0.0,0.0,1.0
+osmotik,r,0.0,0.0,1.0
+osprey,n,0.0,0.0,1.0
+ossiculate,a,0.0,0.0,1.0
+ossiculum,n,0.0,0.0,1.0
+ossiferous,a,0.0,0.0,1.0
+osteal,a,0.0,0.0,1.0
+osteitis,n,0.0,0.625,0.375
+ostensive,a,0.0625,0.1875,0.875
+ostensorium,n,0.0,0.0,1.0
+ostentatiousness,n,0.125,0.375,0.75
+osteoarthritis,n,0.0,0.0,1.0
+osteoblas,n,0.0,0.0,1.0
+osteoblastoma,n,0.0,0.0,1.0
+osteochondromas,n,0.0,0.0,1.0
+osteoclasis,n,0.0,0.0,1.0
+osteodistrofi,n,0.25,0.25,1.0
+osteofit,n,0.0,0.25,0.75
+osteogenesis imperfecta,n,0.125,0.5,0.625
+osteoklas,n,0.0,0.0,1.0
+osteolisis,n,0.0,0.625,0.375
+osteologer,n,0.0,0.0,1.0
+osteologist,n,0.0,0.0,1.0
+osteoma,n,0.0,0.0,1.0
+osteomalacia,n,0.0,0.375,0.625
+osteomyelitis,n,0.0,0.625,0.375
+osteopathist,n,0.0,0.0,1.0
+osteopati,n,0.25,0.0,0.75
+osteopetrosis,n,0.0,0.375,0.625
+osteoporosis,n,0.0,0.125,0.875
+osteosarcoma,n,0.0,0.0,1.0
+osteosclerosis,n,0.0,0.375,0.625
+osteosclerosis congenita,n,0.0,0.5,0.5
+osteosit,n,0.0,0.0,1.0
+osteostracan,n,0.0,0.125,0.875
+osteotomy,n,0.0,0.0,1.0
+ostiole,n,0.0,0.0,1.0
+ostomy,n,0.0,0.0,1.0
+ostraciontidae keluarga,n,0.0,0.0,1.0
+ostracise,v,0.0,0.125,0.875
+ostracoderm,n,0.0,0.0,1.0
+ostracoderms,n,0.0,0.125,0.875
+ostracods,n,0.0,0.0,1.0
+ostreidae,n,0.0,0.0,1.0
+ostreidae keluarga,n,0.0,0.0,1.0
+ostrya genus,n,0.0,0.0,1.0
+ostryopsis,n,0.0,0.0,1.0
+ostryopsis genus,n,0.0,0.0,1.0
+oswald,n,0.0,0.0,1.0
+otaheite pati garut,n,0.0,0.0,1.0
+otak,n,0.140625,0.015625,0.875
+otak,v,0.0,0.0,1.0
+otak belakang,n,0.0,0.0,1.0
+otak depan,n,0.0,0.0,1.0
+otak genus,n,0.0,0.0,1.0
+otak kanan,n,0.0,0.0,1.0
+otak kecerdasan,n,0.0,0.0,1.0
+otak kecil,n,0.0,0.0,1.0
+otak kiri,n,0.0,0.0,1.0
+otak limbik,n,0.0,0.0,1.0
+otak penciuman,n,0.0,0.0,1.0
+otak tengah,n,0.0,0.0,1.0
+otak udang,n,0.1875,0.0,0.8125
+otak-homo,n,0.125,0.625,0.5
+otak-pekerja,n,0.0,0.0,1.0
+otak-teaser,n,0.0,0.625,0.375
+otalgia,n,0.0,0.0,1.0
+otaria,n,0.0,0.125,0.875
+otaria byronia,n,0.0,0.0,1.0
+otaria genus,n,0.0,0.125,0.875
+otc,a,0.0,0.625,0.375
+otc keamanan,n,0.0,0.0,1.0
+otentikasi biometrik,n,0.0,0.0,1.0
+otherworldliness,n,0.25,0.0,0.75
+othman i,n,0.0,0.0,1.0
+othonna,n,0.0,0.0,1.0
+othonna genus,n,0.0,0.0,1.0
+otides,n,0.0,0.0,1.0
+otides subordo,n,0.0,0.0,1.0
+otididae keluarga,n,0.0,0.0,1.0
+otis,n,0.0,0.0,1.0
+otis genus,n,0.0,0.0,1.0
+otis skinner,n,0.0,0.0,1.0
+otitis,n,0.125,0.375,0.75
+otitis eksterna,n,0.0,0.0,1.0
+otitis internal yang,n,0.125,0.25,0.875
+otitis media,n,0.0,0.0,1.0
+oto,n,0.0,0.0,1.0
+oto,v,0.0625,0.0,0.9375
+otobiografi,a,0.0,0.0,1.0
+otodidak,a,0.0,0.0,1.0
+otodidak,n,0.0,0.0,1.0
+otoganglion,n,0.0,0.0,1.0
+otogiro,n,0.0,0.0,1.0
+otokrasi,n,0.0,0.0,1.0
+otokrat,n,0.125,0.25,0.875
+otokratis,a,0.0625,0.0625,1.0
+otokratis,r,0.1875,0.0,0.8125
+otolaryngologist,n,0.0,0.0,1.0
+otomatis,a,0.0,0.15625,0.84375
+otomatis,n,0.0,0.0,1.0
+otomatisasi,n,0.0,0.0,1.0
+otomotif,a,0.0,0.0,1.0
+otomotif,n,0.0,0.0,1.0
+otonom,a,0.0,0.0,1.0
+otonomi,n,0.0,0.0,1.0
+otoplasty,n,0.0,0.0,1.0
+otorhinolaryngologist,n,0.0,0.0,1.0
+otorhinolaryngology,n,0.0,0.0,1.0
+otorisasi,n,0.03125,0.0,0.96875
+otoritarianisme,n,0.0,0.5,0.5
+otoritas,n,0.0,0.0,1.0
+otoritas lokal,n,0.0,0.0,1.0
+otoritas nasional palestina,n,0.0,0.0,1.0
+otoritas nasional palestine,n,0.0,0.0,1.0
+otoritas palestina,n,0.0,0.0,1.0
+otoritas pembangunan kembali,n,0.0,0.0,1.0
+otoritas sipil,n,0.0,0.0,1.0
+otoritas tertinggi,n,0.0,0.0,1.0
+otoritas yang baik,n,0.0,0.0,1.0
+otoritatif,r,0.125,0.0,0.875
+otoriter,a,0.225,0.175,0.95
+otoriter,n,0.0,0.0,1.0
+otorrhea,n,0.0,0.0,1.0
+otoscope,n,0.0,0.0,1.0
+otosklerosis,n,0.125,0.25,0.875
+otosugesti,n,0.0,0.0,1.0
+otot,n,0.0178571428571,0.107142857143,0.910714285714
+otot,v,0.0,0.0,1.0
+otot abductor,n,0.0,0.0,1.0
+otot adduktor,n,0.0,0.0,1.0
+otot adduktor besar,n,0.0,0.0,1.0
+otot aksial,n,0.0,0.0,1.0
+otot anconeous,n,0.0,0.0,1.0
+otot antagonis,n,0.0,0.0,1.0
+otot artikular,n,0.0,0.0,1.0
+otot cowl,n,0.0,0.0,1.0
+otot dada yang lebih besar,n,0.0,0.0,1.0
+otot dada yang lebih kecil,n,0.0,0.0,1.0
+otot deltoid,n,0.0,0.0,1.0
+otot ekstensor,n,0.0,0.0,1.0
+otot fleksor,n,0.0,0.0,1.0
+otot gluteal,n,0.0,0.0,1.0
+otot interkostal,n,0.0,0.0,1.0
+otot jantung,n,0.0,0.0,1.0
+otot lurik,n,0.125,0.0,0.875
+otot mata,n,0.0,0.0,1.0
+otot melintang,n,0.0,0.0,1.0
+otot melintang perut,n,0.0,0.0,1.0
+otot menjadi,v,0.0,0.0,1.0
+otot minor rhomboid,n,0.0,0.0,1.0
+otot minor teres,n,0.0,0.0,1.0
+otot oblik eksternal,n,0.0,0.0,1.0
+otot okular,n,0.0,0.0,1.0
+otot papiler,n,0.0,0.0,1.0
+otot perut,n,0.0,0.0,1.0
+otot perut melintang,n,0.0,0.0,1.0
+otot polos,n,0.0,0.1875,0.8125
+otot pterygoideus,n,0.0,0.125,0.875
+otot rangka,n,0.125,0.0,0.875
+otot rektus lateralis,n,0.0,0.0,1.0
+otot rektus medial,n,0.0,0.0,1.0
+otot rektus rendah,n,0.0,0.0,1.0
+otot rektus superior,n,0.0,0.0,1.0
+otot rhomboid,n,0.0,0.0,1.0
+otot rhomboid yang lebih besar,n,0.0,0.0,1.0
+otot rhomboid yang lebih rendah,n,0.0,0.0,1.0
+otot serratus,n,0.0,0.0,1.0
+otot serratus anterior,n,0.0,0.0,1.0
+otot sfingter,n,0.0,0.0,1.0
+otot sisi tak sama panjang,n,0.0,0.0,1.0
+otot soleus,n,0.0,0.0,1.0
+otot sternokleidomastoid,n,0.0,0.0,1.0
+otot sukarela,n,0.25,0.0,0.75
+otot tak sadar,n,0.0,0.375,0.625
+otot temporalis,n,0.0,0.0,1.0
+otot wajah,n,0.0,0.0,1.0
+otot-builder,n,0.0,0.0,1.0
+otot-otot,n,0.125,0.0625,0.9375
+otot-otot dada,n,0.0,0.0,1.0
+otot-terikat,a,0.0,0.0,1.0
+ototoksik,a,0.0,0.0,1.0
+ottawa,n,0.0,0.0,1.0
+otto besar,n,0.0,0.0,1.0
+otto hahn,n,0.0,0.0,1.0
+otto jespersen,n,0.0,0.0,1.0
+otto neumann sverdrup,n,0.0,0.0,1.0
+otto robert segar,n,0.0,0.0,1.0
+otto segar,n,0.0,0.0,1.0
+otto wagner,n,0.0,0.0,1.0
+otto warburg heinrich,n,0.0,0.0,1.0
+oubliette,n,0.0,0.0,1.0
+ouguiya,n,0.0,0.0,1.0
+ouija papan,n,0.0,0.0,1.0
+ouranopithecus,n,0.0,0.0,1.0
+ouranopithecus genus,n,0.0,0.0,1.0
+ouse,n,0.0,0.0,1.0
+ousel,n,0.0,0.0,1.0
+out datar,r,0.125,0.125,1.0
+out formal,v,0.25,0.0,0.75
+out kasar,v,0.0,0.0,1.0
+out kosong,v,0.0,0.0,1.0
+out kunci,v,0.0,0.0,1.0
+out putih,v,0.0,0.0,1.0
+out-and-out,a,0.625,0.0,0.375
+out-herodes,v,0.0,0.875,0.125
+out-keranjang,n,0.0,0.0,1.0
+out-of-body experience,n,0.0,0.0,1.0
+out-of-court settlement,n,0.0,0.0,1.0
+out-of-saku,a,0.0,0.0,1.0
+out-of-sekolah,a,0.0,0.625,0.375
+out-of-the-box berpikir,n,0.0,0.0,1.0
+out-of-the-way,a,0.0,0.25,0.75
+out-tray,n,0.0,0.0,1.0
+out_of_place,a,0.125,0.875,0.25
+out_of_play,a,0.0,0.0,1.0
+out_of_reach,a,0.0,0.0,1.0
+outage,n,0.0,0.0,1.0
+outbond,a,0.0,0.0,1.0
+outbred,a,0.0,0.0,1.0
+outcall,v,0.0,0.0,1.0
+outcaste,a,0.0,0.625,0.375
+outcaste,n,0.0,0.0,1.0
+outcropping,n,0.0,0.0,1.0
+outdoorsman,n,0.0,0.0,1.0
+outdoorswoman,n,0.0,0.0,1.0
+outercourse,n,0.25,0.375,0.875
+outfight,v,0.25,0.0,0.75
+outgeneral,v,0.0,0.0,1.0
+outgoer,n,0.0,0.0,1.0
+outguess,v,0.0,0.0,1.0
+outlander,n,0.0,0.0,1.0
+outlandishly,r,0.25,0.0,0.75
+outlandishness,n,0.375,0.0,0.625
+outlet penjualan,n,0.0,0.0,1.0
+outmarch,v,0.0,0.0,1.0
+outmode,v,0.0,0.25,0.75
+outport,n,0.0,0.0,1.0
+outrageousness,n,0.25,0.5625,0.6875
+outreach,n,0.0,0.0,1.0
+outrigged,a,0.0,0.0,1.0
+outros,v,0.25,0.0,0.75
+outsail,v,0.375,0.0,0.625
+outscore,v,0.0,0.0,1.0
+outshout,v,0.0,0.0,1.0
+outsize,a,0.0,0.375,0.625
+outsize,n,0.0,0.0,1.0
+outsized,a,0.0,0.375,0.625
+outsole,n,0.0,0.0,1.0
+outsourcing,v,0.0,0.0,1.0
+outsourcing perusahaan,v,0.0,0.0,1.0
+outspokenly,r,0.375,0.0,0.625
+outstare,v,0.0,0.375,0.625
+outstation,n,0.0,0.0,1.0
+outstroke,n,0.0,0.0,1.0
+outtake,n,0.0,0.5,0.5
+outthrust,n,0.0,0.0,1.0
+outwardness,n,0.0,0.0,1.0
+ouzo,n,0.0,0.0,1.0
+oval berbentuk,a,0.125,0.0,0.875
+oval berbuah,a,0.375,0.0,0.625
+oval bertubuh,a,0.0,0.25,0.75
+ovalbumin,n,0.0,0.0,1.0
+ovalipes,n,0.0,0.0,1.0
+ovalipes genus,n,0.0,0.0,1.0
+ovalipes ocellatus,n,0.0,0.0,1.0
+ovariektomi,n,0.0,0.0,1.0
+ovaritis,n,0.0,0.5,0.5
+ovarium,a,0.0,0.0,1.0
+oven,n,0.0,0.0,1.0
+oven gas,n,0.0,0.0,1.0
+oven kecil,n,0.0,0.125,0.875
+oven pemanggang roti,n,0.0,0.0,1.0
+oven sate,v,0.0,0.0,1.0
+oven stuffer,n,0.0,0.0,1.0
+oven stuffer roaster,n,0.0,0.0,1.0
+oven termometer,n,0.0,0.0,1.0
+oven-siap,a,0.125,0.0,0.875
+ovenbake,v,0.0,0.0,1.0
+over-crowding,n,0.0,0.5,0.5
+over-menghiasi,a,0.0,0.25,0.75
+over-suling,v,0.25,0.25,1.0
+over-the-bahu bom,n,0.0,0.0,1.0
+over-the-bukit,a,0.5,0.0,0.5
+over-the-counter,a,0.0625,0.5625,0.5
+over-the-counter obat,n,0.0,0.375,0.625
+over-the-counter pasar,n,0.0,0.0,1.0
+over-the-top,a,0.125,0.375,0.75
+overachieve,v,0.125,0.0,0.875
+overachievement,n,0.25,0.0,0.75
+overachiever,n,0.5,0.0,0.5
+overacting,n,0.0,0.875,0.125
+overaged,a,0.5,0.0,0.5
+overaktif,n,0.0,0.125,0.875
+overambitious,a,0.375,0.25,0.875
+overappraisal,n,0.5,0.0,0.5
+overbearingly,r,0.25,0.0,0.75
+overbearingness,n,0.125,0.25,0.875
+overbid,n,0.0625,0.125,0.9375
+overbid,v,0.0,0.0,1.0
+overbite,n,0.0,0.125,0.875
+overbusy,a,0.375,0.0,0.625
+overcall,n,0.125,0.25,0.875
+overcapitalisation,n,0.0,0.125,0.875
+overcapitalization,n,0.0,0.125,0.875
+overcareful,a,0.5,0.0,0.5
+overcasting,n,0.0,0.0,1.0
+overclothe,v,0.0,0.5,0.5
+overclothes,n,0.0,0.0,1.0
+overcoating,n,0.0,0.0,1.0
+overcompensate,v,0.3125,0.0625,0.75
+overcompensation,n,0.0,0.4375,0.5625
+overconfident,a,0.5,0.0,0.5
+overcredulity,n,0.375,0.0,0.625
+overcredulous,a,0.0,0.75,0.25
+overcritical,a,0.0,0.625,0.375
+overcrossing,n,0.0,0.0,1.0
+overcultivate,v,0.0,0.375,0.625
+overcurious,a,0.5,0.0,0.5
+overdosis,v,0.0,0.0,1.0
+overdramatise,v,0.125,0.0,0.875
+overdramatize,v,0.125,0.0,0.875
+overdressed,a,0.125,0.25,0.875
+overemotional,a,0.0,0.625,0.375
+overemphasis,n,0.25,0.0,0.75
+overenthusiastic,a,0.5,0.0,0.5
+overexert,v,0.125,0.375,0.75
+overexert diri,v,0.5,0.0,0.5
+overexpose,v,0.0625,0.25,0.8125
+overexposure,n,0.0,0.0,1.0
+overfamiliar,a,0.0,0.125,0.875
+overfatigue,v,0.125,0.5,0.625
+overfeeding,n,0.0,0.5,0.5
+overfly,v,0.0,0.0,1.0
+overfull,a,0.125,0.125,1.0
+overgeneralize,v,0.0,0.0,1.0
+overgenerous,a,0.0,0.0,1.0
+overgreedy,a,0.125,0.375,0.75
+overhanded,a,0.0,0.0,1.0
+overhead projector,n,0.0,0.0,1.0
+overheated,a,0.25,0.25,1.0
+overheating,n,0.0,0.5,0.5
+overindulge,v,0.0,0.0,1.0
+overindulgent,a,0.125,0.25,0.875
+overjealous,a,0.0,0.25,0.75
+overlayer,n,0.0,0.0,1.0
+overlip,n,0.0,0.0,1.0
+overmantel,n,0.0,0.0,1.0
+overmuchness,n,0.0,0.0,1.0
+overnice,a,0.0,0.375,0.625
+overnighter,n,0.0,0.0,1.0
+overpopulasi,n,0.0,0.0,1.0
+overpopulate,v,0.25,0.0,0.75
+overpoweringly,r,0.0,0.375,0.625
+overprice,v,0.5,0.0,0.5
+overproduksi,n,0.0,0.0,1.0
+overprotective,a,0.0,0.125,0.875
+overproud,a,0.25,0.5,0.75
+overrating,n,0.125,0.0,0.875
+overreaction,n,0.125,0.375,0.75
+overreckoning,n,0.125,0.0,0.875
+overrefine,v,0.25,0.25,1.0
+overrefined,a,0.75,0.125,0.375
+overrefinement,n,0.0,0.0,1.0
+overseks,a,0.5,0.0,0.5
+overserious,a,0.125,0.375,0.75
+oversew,v,0.0,0.0,1.0
+oversewn,a,0.0,0.0,1.0
+overshot,a,0.0,0.0,1.0
+overskirt,n,0.0,0.0,1.0
+oversolicitous,a,0.125,0.625,0.5
+overspecialise,v,0.0,0.0,1.0
+overspecialize,v,0.0,0.0,1.0
+overstay,v,0.0,0.0,1.0
+overstress,v,0.125,0.0,0.875
+oversubscribed,a,0.0,0.0,1.0
+oversuspicious,a,0.0,0.375,0.625
+overtire,v,0.125,0.5,0.625
+overtolerance,n,0.125,0.125,1.0
+overutilisation,n,0.0,0.0,1.0
+overutilization,n,0.0,0.0,1.0
+overvaliant,a,0.5,0.25,0.75
+overvaluation,n,0.4375,0.0,0.5625
+overvalued,v,0.25,0.0,0.75
+overweary,v,0.125,0.5,0.625
+ovibos,n,0.0,0.0,1.0
+ovibos genus,n,0.0,0.0,1.0
+ovibos moschatus,n,0.0,0.0,1.0
+ovid,n,0.0,0.0,1.0
+oviedo,n,0.0,0.0,1.0
+ovipositor,n,0.0,0.0,1.0
+ovocon,n,0.0,0.0,1.0
+ovoflavin,n,0.0,0.0,1.0
+ovotestis,n,0.0,0.125,0.875
+ovoviviparous,a,0.0,0.0,1.0
+ovrette,n,0.0,0.0,1.0
+ovula,n,0.0,0.0,1.0
+ovula anatrop,n,0.0,0.0,1.0
+ovulasi,a,0.25,0.0625,0.8125
+ovulasi,n,0.0,0.0,1.0
+ovulasi,v,0.0,0.0,1.0
+ovum dibuahi,n,0.0,0.0,1.0
+owen,n,0.0,0.0,1.0
+owens,n,0.0,0.0,1.0
+owensboro,n,0.0,0.0,1.0
+owl abu-abu besar,n,0.0,0.0,1.0
+owl bertanduk,n,0.0,0.0,1.0
+owl bertanduk besar,n,0.0,0.0,1.0
+owl scops,n,0.0,0.0,1.0
+owlclaws,n,0.0,0.0,1.0
+owlishly,r,0.25,0.0,0.75
+owlt,n,0.0,0.0,1.0
+oxalacetate,n,0.0,0.0,1.0
+oxandra genus,n,0.0,0.0,1.0
+oxandra lanceolata,n,0.0,0.0,1.0
+oxaprozin,n,0.0,0.25,0.75
+oxazepam,n,0.0,0.0,1.0
+oxblood merah,n,0.0,0.125,0.875
+oxford abu-abu,n,0.0,0.0,1.0
+oxford dictionary inggris,n,0.375,0.0,0.625
+oxford inggris,n,0.0,0.0,1.0
+oxford university,n,0.0,0.0,1.0
+oxford-abu,a,0.0,0.0,1.0
+oxheart,n,0.0,0.0,1.0
+oxheart cherry,n,0.0,0.0,1.0
+oxidase,n,0.0,0.0,1.0
+oxidoreduction,n,0.0,0.0,1.0
+oxtant,n,0.0,0.0,1.0
+oxybelis,n,0.0,0.0,1.0
+oxybelis genus,n,0.0,0.0,1.0
+oxybenzene,n,0.0,0.0,1.0
+oxycephaly,n,0.0,0.0,1.0
+oxydendrum,n,0.0,0.0,1.0
+oxydendrum arboreum,n,0.0,0.0,1.0
+oxydendrum genus,n,0.0,0.0,1.0
+oxygenase,n,0.0,0.0,1.0
+oxygenise,v,0.0,0.0,1.0
+oxylebius,n,0.0,0.0,1.0
+oxylebius genus,n,0.0,0.0,1.0
+oxymoron,n,0.125,0.0,0.875
+oxyopia,n,0.25,0.0,0.75
+oxyphenbutazone,n,0.0,0.125,0.875
+oxyphencyclimine,n,0.0,0.0,1.0
+oxytetracycline,n,0.0,0.0,1.0
+oxytetracycline hydrochloride,n,0.0,0.0,1.0
+oxytocic,n,0.0,0.25,0.75
+oxytone,n,0.0,0.0,1.0
+oxytropis,n,0.0,0.0,1.0
+oxytropis genus,n,0.0,0.0,1.0
+oxytropis lambertii,n,0.0,0.0,1.0
+oxyura genus,n,0.0,0.0,1.0
+oxyura jamaicensis,n,0.0,0.0,1.0
+oxyuranus,n,0.0,0.0,1.0
+oxyuranus genus,n,0.0,0.0,1.0
+oxyuridae,n,0.0,0.0,1.0
+oxyuridae keluarga,n,0.0,0.0,1.0
+oyabun,n,0.0,0.0,1.0
+oyster bar,n,0.0,0.0,1.0
+oystercatcher,n,0.0,0.0,1.0
+oysterfish,n,0.0,0.0,1.0
+ozaena,n,0.0,0.75,0.25
+ozark chinkapin,n,0.0,0.0,1.0
+ozark chinquapin,n,0.0,0.0,1.0
+ozark dataran tinggi,n,0.0,0.0,1.0
+ozarks,n,0.0,0.0,1.0
+ozawa,n,0.0,0.0,1.0
+ozocerite,n,0.0,0.0,1.0
+ozon,n,0.0,0.0,1.0
+ozon sickness,n,0.625,0.0,0.375
+ozonide,n,0.0,0.0,1.0
+ozonium,n,0.0,0.25,0.75
+ozonium genus,n,0.0,0.25,0.75
+ozonized,v,0.0,0.0,1.0
+ozonosfir,n,0.0,0.0,1.0
+ozothamnus,n,0.0,0.0,1.0
+ozothamnus genus,n,0.0,0.0,1.0
+ozothamnus secundiflorus,n,0.0,0.0,1.0
